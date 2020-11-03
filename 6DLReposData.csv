@@ -1,7 +1,0 @@
-Repository,URL,SLOC,#commits,Size
-keras-applications,https://github.com/keras-team/keras-applications.git,4263,89,small
-DeepCTR,https://github.com/shenweichen/DeepCTR.git,4886,91,small
-nn-wtf,https://github.com/lene/nn-wtf.git,2688,119,small
-ranking,https://github.com/tensorflow/ranking.git,10778,145,medium
-BerryNet,https://github.com/DT42/BerryNet.git,12963,396,medium
-adanet,https://github.com/tensorflow/adanet.git,25165,432,large
