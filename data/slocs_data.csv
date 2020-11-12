@@ -1,0 +1,337 @@
+,repoName,type,total_sloc
+0,CommonMark,Traditional,342
+1,Dshell,Traditional,9054
+2,Flashlight,Traditional,76324
+3,GitGutter,Traditional,3998
+4,Gooey,Traditional,3206
+5,Mailpile,Traditional,47974
+6,PathPicker,Traditional,3198
+7,Sick-Beard,Traditional,80255
+8,XX-Net,Traditional,366768
+9,ajenti,Traditional,16393
+10,ansible,Traditional,990055
+11,awesome-python,Traditional,66
+12,aws-cli,Traditional,76571
+13,beeswithmachineguns,Traditional,1318
+14,beets,Traditional,45928
+15,boto,Traditional,138283
+16,bottle,Traditional,6887
+17,bup,Traditional,14115
+18,celery,Traditional,55352
+19,certbot,Traditional,52977
+20,chisel,Traditional,3978
+21,click,Traditional,10100
+22,compose,Traditional,18965
+23,django-cms,Traditional,49231
+24,docopt,Traditional,1596
+25,eve,Traditional,18982
+26,explainshell,Traditional,3301
+27,fabric,Traditional,4998
+28,faker,Traditional,33838
+29,flask,Traditional,10082
+30,glances,Traditional,16341
+31,gunicorn,Traditional,12599
+32,howdoi,Traditional,477
+33,httpie,Traditional,5119
+34,huxley,Traditional,742
+35,jinja2,Traditional,13981
+36,kivy,Traditional,75330
+37,legit,Traditional,969
+38,locust,Traditional,4361
+39,luigi,Traditional,45762
+40,mackup,Traditional,1608
+41,mailinabox,Traditional,5677
+42,matplotlib,Traditional,176754
+43,ngxtop,Traditional,541
+44,numpy,Traditional,178075
+45,pandas,Traditional,294416
+46,powerline,Traditional,14702
+47,pyspider,Traditional,14137
+48,pyston,Traditional,495063
+49,python-mode,Traditional,20266
+50,python-patterns,Traditional,3586
+51,quietnet,Traditional,440
+52,redis-py,Traditional,8730
+53,requests,Traditional,5718
+54,salt,Traditional,804247
+55,scipy,Traditional,259649
+56,scrapy,Traditional,29086
+57,seaborn,Traditional,22478
+58,sh,Traditional,5135
+59,speedtest-cli,Traditional,1670
+60,sqlmap,Traditional,61462
+61,sshuttle,Traditional,5597
+62,stellar,Traditional,893
+63,tornado,Traditional,35583
+64,tweepy,Traditional,4086
+65,wagtail,Traditional,72422
+66,webpy,Traditional,9104
+67,yapf,Traditional,15837
+68,youtube-dl,Traditional,90245
+69,yowsup,Traditional,11423
+70,zipline,Traditional,90490
+71,zulip,Traditional,105425
+72,imgaug,Deep Learning,89910
+73,allennlp,Deep Learning,87824
+74,ray,Deep Learning,83581
+75,tensor2tensor,Deep Learning,83469
+76,deepchem,Deep Learning,73343
+77,NiftyNet,Deep Learning,51911
+78,texar,Deep Learning,45104
+79,tensorlayer,Deep Learning,38930
+80,nni,Deep Learning,34148
+81,tensorpack,Deep Learning,33572
+82,DeepPavlov,Deep Learning,31012
+83,OpenSeq2Seq,Deep Learning,27419
+84,faceswap,Deep Learning,27387
+85,catalyst,Deep Learning,25059
+86,DeepVideoAnalytics,Deep Learning,20410
+87,GPflow,Deep Learning,19974
+88,sonnet,Deep Learning,19415
+89,deepvariant,Deep Learning,18548
+90,ludwig,Deep Learning,17573
+91,chainercv,Deep Learning,16502
+92,masktextspotter.caffe2,Deep Learning,15595
+93,luminoth,Deep Learning,14804
+94,caffe-jacinto-models,Deep Learning,14625
+95,stanfordnlp,Deep Learning,11869
+96,MatchZoo,Deep Learning,10327
+97,dm_control,Deep Learning,10234
+98,OpenNMT-py,Deep Learning,10040
+99,pwnagotchi,Deep Learning,9886
+100,NeuronBlocks,Deep Learning,8623
+101,adanet,Deep Learning,8096
+102,coach,Deep Learning,8076
+103,tangent,Deep Learning,8074
+104,MasterThesis-anp-2016-dist,Deep Learning,7513
+105,tflearn,Deep Learning,7262
+106,interactive-deep-colorization,Deep Learning,6602
+107,xlnet,Deep Learning,6561
+108,gluon-cv,Deep Learning,6457
+109,auto_ml,Deep Learning,6453
+110,pytorch-lightning,Deep Learning,6314
+111,nlp-architect,Deep Learning,6244
+112,MAgent,Deep Learning,6150
+113,DeepLearn,Deep Learning,6059
+114,gluon-nlp,Deep Learning,5950
+115,PyTorch-NLP,Deep Learning,5873
+116,keras,Deep Learning,5824
+117,DeepFaceLab,Deep Learning,5528
+118,decaNLP,Deep Learning,5383
+119,resnet,Deep Learning,5171
+120,ranking,Deep Learning,5053
+121,TTS,Deep Learning,5053
+122,lemontree,Deep Learning,4937
+123,tutorials,Deep Learning,4850
+124,pythia,Deep Learning,4835
+125,pointnet2,Deep Learning,4619
+126,tf_classification,Deep Learning,4490
+127,labelme,Deep Learning,4236
+128,keras-applications,Deep Learning,4159
+129,pytorch-kaldi,Deep Learning,4046
+130,bert-as-service,Deep Learning,3809
+131,Keras-GAN,Deep Learning,3675
+132,DLTK,Deep Learning,3284
+133,face.evoLVe.PyTorch,Deep Learning,3186
+134,image-super-resolution,Deep Learning,3123
+135,DeepMonster,Deep Learning,2811
+136,BigGAN-PyTorch,Deep Learning,2794
+137,streamlit,Deep Learning,2763
+138,spotlight,Deep Learning,2675
+139,mt-dnn,Deep Learning,2539
+140,alpha-zero-general,Deep Learning,2524
+141,NeuroNER,Deep Learning,2511
+142,MLAlgorithms,Deep Learning,2467
+143,tensorflow_template_application,Deep Learning,2289
+144,sesame-paste-noodle,Deep Learning,2275
+145,sru,Deep Learning,2272
+146,darts,Deep Learning,2238
+147,DeepLabCut,Deep Learning,2161
+148,kitti_zoo_keras,Deep Learning,2058
+149,pytorch-tutorial,Deep Learning,2055
+150,PyTorch,Deep Learning,2055
+151,facenet,Deep Learning,2000
+152,labelImg,Deep Learning,1970
+153,torchtrainer,Deep Learning,1965
+154,squadgoals,Deep Learning,1941
+155,PySyft,Deep Learning,1903
+156,Meta_PyTorch,Deep Learning,1883
+157,edge-connect,Deep Learning,1741
+158,reinforcement-learning,Deep Learning,1731
+159,torchvision-enhance,Deep Learning,1727
+160,tf-pose-estimation,Deep Learning,1698
+161,lip-reading-deeplearning,Deep Learning,1679
+162,pytorch-caffe-darknet-convert_20171216,Deep Learning,1568
+163,pytorch2caffe,Deep Learning,1568
+164,pix2pixHD,Deep Learning,1536
+165,probtorch,Deep Learning,1477
+166,dlcv_for_beginners,Deep Learning,1472
+167,3D-ResNets-PyTorch,Deep Learning,1379
+168,Synkhronos,Deep Learning,1376
+169,ssd_keras,Deep Learning,1360
+170,pytorch-CycleGAN-and-pix2pix,Deep Learning,1340
+171,regularization-experiment,Deep Learning,1336
+172,torchsample,Deep Learning,1322
+173,3DDFA,Deep Learning,1288
+174,DeepCTR,Deep Learning,1274
+175,Deep Learning-with-cats,Deep Learning,1273
+176,tencent-ml-images,Deep Learning,1241
+177,tensorflow-yolov3,Deep Learning,1241
+178,Automatic_Speech_Recognition,Deep Learning,1219
+179,BA_WassersteinGAN,Deep Learning,1191
+180,BiDAF_PyTorch,Deep Learning,1174
+181,darkflow,Deep Learning,1152
+182,KerasRL,Deep Learning,1123
+183,MUNIT,Deep Learning,1103
+184,d2l-zh,Deep Learning,1052
+185,d2l-en,Deep Learning,1048
+186,ml-agents,Deep Learning,1047
+187,efficient_densenet_pytorch,Deep Learning,1032
+188,lego_yolo,Deep Learning,1023
+189,DeepRecommender,Deep Learning,996
+190,tensorflow-speech-recognition,Deep Learning,994
+191,Joint-Face-Detection-and-Alignment,Deep Learning,992
+192,DeepQA,Deep Learning,990
+193,Semantic-Segmentation-Suite,Deep Learning,954
+194,text-to-image,Deep Learning,927
+195,PyTorch-RL,Deep Learning,915
+196,pytorch-a2c-ppo-acktr-gail,Deep Learning,908
+197,MonoDepth-PyTorch,Deep Learning,906
+198,zi2zi,Deep Learning,901
+199,POS-CNN-Theano,Deep Learning,870
+200,DeblurGAN,Deep Learning,840
+201,caffe_rcnn,Deep Learning,814
+202,waifu2x-chainer,Deep Learning,803
+203,torchUp,Deep Learning,799
+204,Caffe-Python-Data-Layer,Deep Learning,795
+205,deepo,Deep Learning,774
+206,minimalRL,Deep Learning,769
+207,Keras-NRE,Deep Learning,763
+208,keras_frcnn,Deep Learning,754
+209,tf_unet,Deep Learning,747
+210,zhusuan,Deep Learning,734
+211,vision_networks,Deep Learning,716
+212,TensorFlow-World,Deep Learning,714
+213,keras-contrib,Deep Learning,685
+214,neural-style-tf,Deep Learning,677
+215,attention-is-all-you-need-pytorch,Deep Learning,676
+216,tnt,Deep Learning,670
+217,byteps,Deep Learning,667
+218,Super-SloMo,Deep Learning,662
+219,gatherer,Deep Learning,659
+220,albumentations,Deep Learning,652
+221,onto-lstm,Deep Learning,648
+222,cnn-text-classification,Deep Learning,647
+223,dcgan-completion.tensorflow,Deep Learning,645
+224,DeepCreamPy,Deep Learning,639
+225,face-alignment,Deep Learning,631
+226,Keras-IndRNN,Deep Learning,618
+227,tensorflow-1.4-billion-password-analysis,Deep Learning,607
+228,keras-adversarial,Deep Learning,580
+229,theano-chord-detection,Deep Learning,574
+230,fast-style-transfer,Deep Learning,565
+231,CapsNet_guide_PyTorch,Deep Learning,551
+232,fashion-mnist,Deep Learning,540
+233,cws-tensorflow,Deep Learning,539
+234,python,Deep Learning,538
+235,torch,Deep Learning,536
+236,rationale-CNN,Deep Learning,535
+237,ignite,Deep Learning,492
+238,dnc-theano,Deep Learning,489
+239,DHSNet-PyTorch,Deep Learning,478
+240,keras-vis,Deep Learning,472
+241,elephas,Deep Learning,466
+242,seq2seq-couplet,Deep Learning,464
+243,CorpFin,Deep Learning,458
+244,ssd.pytorch,Deep Learning,451
+245,PyTorch-ML,Deep Learning,450
+246,tf-face-recognizer,Deep Learning,445
+247,PyTorchAVITM,Deep Learning,441
+248,torchkit,Deep Learning,438
+249,comp_DNNfw,Deep Learning,427
+250,DeepLearningFlappyBird,Deep Learning,426
+251,anago,Deep Learning,421
+252,torchsight,Deep Learning,406
+253,BerryNet,Deep Learning,406
+254,hse,Deep Learning,388
+255,BossSensor,Deep Learning,366
+256,CASIA-HWDB1.1-cnn,Deep Learning,358
+257,CNNFinalProject,Deep Learning,350
+258,deep-connect-four,Deep Learning,346
+259,bulbea,Deep Learning,343
+260,convnets-keras,Deep Learning,335
+261,music-auto_tagging-keras,Deep Learning,334
+262,async-rl,Deep Learning,331
+263,porcupine,Deep Learning,331
+264,nn-wtf,Deep Learning,327
+265,talos,Deep Learning,324
+266,STORN-keras,Deep Learning,322
+267,keras-molecules,Deep Learning,322
+268,keras-playground,Deep Learning,317
+269,classify,Deep Learning,299
+270,caffe2_sandbox,Deep Learning,298
+271,keras-alexnet,Deep Learning,297
+272,caffe2keras,Deep Learning,291
+273,cnn-text-classification-tf,Deep Learning,285
+274,Visual-Semantic-Alignments,Deep Learning,283
+275,keras-rnn-music-super-resolution,Deep Learning,266
+276,pytorch-semseg,Deep Learning,257
+277,keras-image-segmentation,Deep Learning,246
+278,Tacotron,Deep Learning,242
+279,crp,Deep Learning,229
+280,TorchyMcDaskface,Deep Learning,214
+281,Torch-NBody,Deep Learning,214
+282,QACNN-PyTorch,Deep Learning,204
+283,jazzCNN,Deep Learning,204
+284,LineDistiller,Deep Learning,197
+285,Deep-Photo-Style-Transfer-PyTorch,Deep Learning,188
+286,testing_Torch,Deep Learning,186
+287,mnistCRNN,Deep Learning,184
+288,tf_ThinPlateSpline,Deep Learning,170
+289,PyFactorizationMachines,Deep Learning,169
+290,keras_vggface,Deep Learning,166
+291,lstm-ner,Deep Learning,162
+292,car-recognition,Deep Learning,160
+293,Car-recognition,Deep Learning,160
+294,Deep-RL-Keras,Deep Learning,159
+295,PyTorch-progressive_growing_of_gans,Deep Learning,156
+296,textgenrnn,Deep Learning,153
+297,torchbiomed,Deep Learning,151
+298,CycleGAN,Deep Learning,151
+299,RecTools__test_tensorflow_deeprec,Deep Learning,140
+300,FCN-CTSCAN,Deep Learning,132
+301,densenet,Deep Learning,123
+302,Image-Recognition,Deep Learning,120
+303,neural-algorithm-artistic-style,Deep Learning,118
+304,PyTorch-Encoding,Deep Learning,117
+305,tensorflow-font2char-lm,Deep Learning,117
+306,tensorflow,Deep Learning,116
+307,keras-resnet,Deep Learning,115
+308,TF_PG_GANS,Deep Learning,113
+309,tf-classification,Deep Learning,111
+310,dgl,Deep Learning,109
+311,tripletloss,Deep Learning,106
+312,data-science-ipython-notebooks,Deep Learning,103
+313,MalConv-keras,Deep Learning,100
+314,UNet_Keras,Deep Learning,89
+315,word2vec-keras-in-gensim,Deep Learning,86
+316,tf-rnn-char-autoencoder,Deep Learning,86
+317,VisualDialog,Deep Learning,53
+318,tensorflow_cnn_image_sample,Deep Learning,50
+319,NICE,Deep Learning,47
+320,DeepLearning.ai-Summary,Deep Learning,42
+321,Merge_bn_Caffe,Deep Learning,24
+322,autokeras,Deep Learning,13
+323,GDLnotes,Deep Learning,12
+324,Real-Time-Voice-Cloning,Deep Learning,6574
+325,DRL,Deep Learning,8583
+326,DL-Playground,Deep Learning,853
+327,DeepSpell_temp,Deep Learning,134
+328,tensorflow-keras-docker,Deep Learning,589
+329,torchcode,Deep Learning,4011
+330,awesome-hand-pose-estimation,Deep Learning,411
+331,DeepAA,Deep Learning,290
+332,machine_learning_examples,Deep Learning,40887
+333,pytorch-doc-zh,Deep Learning,0
+334,easy-tensorflow,Deep Learning,1804
+335,TensorFlow-and-DeepLearning-Tutorial,Deep Learning,206

@@ -1,0 +1,91 @@
+repoName,classid,g,similarity,files,startlines,endlines,nb_fragment,granularity,clone_type,project_type,category,locc,clone category,sub_class
+BerryNet,24,f,100,{'../clone_code/dl/BerryNet/berrynet/engine/openvino_engine.py.pyindent'},"{101, 214}","{104, 217}",2,Function,type 1,Deep Learning,0,4,Same file, others
+BerryNet,25,f,100,{'../clone_code/dl/BerryNet/berrynet/engine/tflite_engine.py.pyindent'},"{102, 183}","{107, 188}",2,Function,type 1,Deep Learning,0,6,Same file, data collection
+adanet,3,f,100,{'../clone_code/dl/adanet/adanet/experimental/keras/model_search_test.py.pyindent'},"{114, 174}","{128, 189}",2,Function,type 1,Deep Learning,0,16,Same file, model construction
+ranking,1,f,100,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics_impl.py.pyindent'},"{204, 262, 287}","{208, 266, 291}",3,Function,type 1,Deep Learning,0,5,Same file, others
+ranking,2,f,100,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics_impl.py.pyindent'},"{367, 327}","{337, 377}",2,Function,type 1,Deep Learning,0,11,Same file, others
+ranking,4,f,100,{'../clone_code/dl/ranking/tensorflow_ranking/python/data_test.py.pyindent'},"{696, 788}","{824, 732}",2,Function,type 1,Deep Learning,0,37,Same file, others
+ranking,5,f,100,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_impl.py.pyindent'},"{525, 438}","{536, 449}",2,Function,type 1,Deep Learning,0,12,Same file, model construction
+BerryNet,2,f,100,['../clone_code/dl/BerryNet/utils/demo.py.pyindent'],"[32, 28]","[35, 31]",2,Function,type 2,Deep Learning,0,4,Same file, others
+BerryNet,30,f,100,['../clone_code/dl/BerryNet/berrynet/comm/__init__.py.pyindent'],"[32, 39]","[45, 38]",2,Function,type 2,Deep Learning,0,7,Same file, others
+DeepCTR,1,f,100,['../clone_code/dl/DeepCTR/deepctr/contrib/utils.py.pyindent'],"[172, 287]","[312, 197]",2,Function,type 2,Deep Learning,0,26,Same file, model construction
+DeepCTR,10,f,100,['../clone_code/dl/DeepCTR/deepctr/layers/sequence.py.pyindent'],"[134, 54]","[59, 139]",2,Function,type 2,Deep Learning,0,6,Same file, model construction
+DeepCTR,11,f,100,['../clone_code/dl/DeepCTR/deepctr/layers/utils.py.pyindent'],"[128, 146, 163]","[145, 162, 179]",3,Function,type 2,Deep Learning,0,18,Same file, others
+adanet,3,f,100,['../clone_code/dl/adanet/adanet/core/summary.py.pyindent'],"[328, 297]","[342, 311]",2,Function,type 2,Deep Learning,0,15,Same file, others
+adanet,4,f,100,['../clone_code/dl/adanet/adanet/core/summary.py.pyindent'],"[683, 662, 567]","[665, 570, 686]",3,Function,type 2,Deep Learning,0,4,Same file, others
+adanet,5,f,100,['../clone_code/dl/adanet/adanet/core/summary.py.pyindent'],"[576, 593, 671]","[600, 678, 583]",3,Function,type 2,Deep Learning,0,8,Same file, others
+adanet,6,f,100,['../clone_code/dl/adanet/adanet/core/summary.py.pyindent'],"[691, 612]","[699, 620]",2,Function,type 2,Deep Learning,0,9,Same file, others
+adanet,10,f,100,['../clone_code/dl/adanet/adanet/core/architecture_test.py.pyindent'],"[69, 46]","[74, 51]",2,Function,type 2,Deep Learning,0,6,Same file, others
+adanet,18,f,100,['../clone_code/dl/adanet/research/improve_nas/trainer/nasnet_utils.py.pyindent'],"[228, 166]","[234, 181]",2,Function,type 2,Deep Learning,0,16,Same file, model training
+adanet,19,f,100,['../clone_code/dl/adanet/research/improve_nas/trainer/nasnet.py.pyindent'],"[405, 350]","[456, 401]",2,Function,type 2,Deep Learning,0,52,Same file, model construction
+keras-applications,1,f,100,['../clone_code/dl/keras-applications/tests/applications_test.py.pyindent'],"[201, 211, 191]","[200, 210, 220]",3,Function,type 2,Deep Learning,0,10,Same file,others
+keras-applications,2,f,100,['../clone_code/dl/keras-applications/tests/applications_test.py.pyindent'],"[241, 231]","[240, 250]",2,Function,type 2,Deep Learning,0,10,Same file, others
+nn-wtf,1,f,100,['../clone_code/dl/nn-wtf/nn_wtf/input_data.py.pyindent'],"[114, 101]","[113, 126]",2,Function,type 2,Deep Learning,0,13,Same file, data collection
+nn-wtf,2,f,100,['../clone_code/dl/nn-wtf/nn_wtf/tests/trainer_test.py.pyindent'],"[48, 43, 53, 38]","[57, 42, 52, 47]",4,Function,type 2,Deep Learning,0,5,Same file, others
+ranking,4,f,100,['../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'],"[160, 106]","[164, 110]",2,Function,type 2,Deep Learning,0,5,Same file, model training
+ranking,5,f,100,['../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'],"[151, 142, 111]","[159, 150, 119]",3,Function,type 2,Deep Learning,0,9,Same file, others
+ranking,6,f,100,['../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'],"[120, 131]","[130, 141]",2,Function,type 2,Deep Learning,0,11,Same file, others
+ranking,10,f,100,['../clone_code/dl/ranking/tensorflow_ranking/python/losses_test.py.pyindent'],"[495, 491, 499]","[498, 494, 502]",3,Function,type 2,Deep Learning,0,4,Same file, others
+ranking,11,f,100,['../clone_code/dl/ranking/tensorflow_ranking/python/losses_test.py.pyindent'],"[586, 642]","[678, 622]",2,Function,type 2,Deep Learning,0,37,Same file, others
+BerryNet,32,f,80,{'../clone_code/dl/BerryNet/berrynet/engine/tensorflow_engine.py.pyindent'},"{66, 70}","{73, 69}",2,Function,type 3,Deep Learning,0,4,Same file, data preprocessing
+BerryNet,35,f,80,{'../clone_code/dl/BerryNet/berrynet/engine/caffe_engine.py.pyindent'},"{51, 55}","{58, 54}",2,Function,type 3,Deep Learning,0,4,Same file, data preprocessing
+BerryNet,41,f,80,{'../clone_code/dl/BerryNet/berrynet/client/data_collector_ui.py.pyindent'},"{209, 213}","{216, 212}",2,Function,type 3,Deep Learning,0,4,Same file, others
+DeepCTR,4,f,75,{'../clone_code/dl/DeepCTR/tests/layers/interaction_test.py.pyindent'},"{41, 53}","{58, 46}",2,Function,type 3,Deep Learning,0,6,Same file, others
+DeepCTR,5,f,75,{'../clone_code/dl/DeepCTR/tests/layers/interaction_test.py.pyindent'},"{65, 110}","{121, 70}",2,Function,type 3,Deep Learning,0,12,Same file, others
+DeepCTR,8,f,95,{'../clone_code/dl/DeepCTR/deepctr/contrib/utils.py.pyindent'},"{212, 327}","{378, 263}",2,Function,type 3,Deep Learning,0,52,Same file, model construction
+DeepCTR,18,f,72,{'../clone_code/dl/DeepCTR/deepctr/layers/sequence.py.pyindent'},"{285, 748, 93, 174}","{754, 98, 179, 290}",4,Function,type 3,Deep Learning,0,7,Same file, data post-processing
+DeepCTR,22,f,72,{'../clone_code/dl/DeepCTR/deepctr/layers/utils.py.pyindent'},"{186, 180}","{192, 185}",2,Function,type 3,Deep Learning,0,7,Same file, model construction
+DeepCTR,24,f,76,{'../clone_code/dl/DeepCTR/deepctr/layers/interaction.py.pyindent'},"{171, 421}","{185, 438}",2,Function,type 3,Deep Learning,0,18,Same file, data preprocessing
+adanet,1,f,80,{'../clone_code/dl/adanet/adanet/distributed/placement.py.pyindent'},"{60, 86}","{96, 70}",2,Function,type 3,Deep Learning,0,11,Same file, model training
+adanet,3,f,87,{'../clone_code/dl/adanet/adanet/ensemble/strategy.py.pyindent'},"{88, 100}","{96, 108}",2,Function,type 3,Deep Learning,0,9,Same file, model construction
+adanet,4,f,81,{'../clone_code/dl/adanet/adanet/ensemble/strategy_test.py.pyindent'},"{40, 67, 53}","{65, 51, 77}",3,Function,type 3,Deep Learning,0,13,Same file, others
+adanet,5,f,70,{'../clone_code/dl/adanet/adanet/ensemble/strategy_test.py.pyindent'},"{104, 94}","{114, 102}",2,Function,type 3,Deep Learning,0,11,Same file, others
+adanet,7,f,72,{'../clone_code/dl/adanet/adanet/tf_compat/__init__.py.pyindent'},"{96, 105, 86}","{104, 113, 95}",3,Function,type 3,Deep Learning,0,10,Same file, others
+adanet,8,f,84,{'../clone_code/dl/adanet/adanet/tf_compat/__init__.py.pyindent'},"{186, 166}","{185, 204}",2,Function,type 3,Deep Learning,0,20,Same file, others
+adanet,11,f,82,{'../clone_code/dl/adanet/adanet/core/summary_v2_test.py.pyindent'},"{208, 97, 179, 150}","{112, 193, 164, 223}",4,Function,type 3,Deep Learning,0,16,Same file, others
+adanet,12,f,87,{'../clone_code/dl/adanet/adanet/core/evaluator_test.py.pyindent'},"{43, 35}","{42, 50}",2,Function,type 3,Deep Learning,0,8,Same file, model training
+adanet,14,f,84,{'../clone_code/dl/adanet/adanet/core/evaluator_test.py.pyindent'},"{114, 133}","{131, 151}",2,Function,type 3,Deep Learning,0,19,Same file, others
+adanet,15,f,90,{'../clone_code/dl/adanet/adanet/core/summary.py.pyindent'},"{475, 277}","{482, 283}",2,Function,type 3,Deep Learning,0,8,Same file, others
+adanet,16,f,84,{'../clone_code/dl/adanet/adanet/core/summary.py.pyindent'},"{312, 297, 328, 343}","{342, 359, 327, 311}",4,Function,type 3,Deep Learning,0,17,Same file, data preprocessing
+adanet,17,f,70,{'../clone_code/dl/adanet/adanet/core/summary.py.pyindent'},"{681, 660, 565}","{688, 668, 573}",3,Function,type 3,Deep Learning,0,9,Same file, data preprocessing
+adanet,18,f,71,{'../clone_code/dl/adanet/adanet/core/summary.py.pyindent'},"{576, 612, 689, 593, 691, 669, 574, 671}","{678, 583, 680, 585, 620, 600, 699, 702}",8,Function,type 3,Deep Learning,0,14,Same file, data preprocessing
+adanet,20,f,80,{'../clone_code/dl/adanet/adanet/core/summary.py.pyindent'},"{709, 816, 787, 757, 728}","{736, 717, 824, 795, 765}",5,Function,type 3,Deep Learning,0,9,Same file, others
+adanet,21,f,72,{'../clone_code/dl/adanet/adanet/core/summary.py.pyindent'},"{838, 718}","{847, 727}",2,Function,type 3,Deep Learning,0,10,Same file, others
+adanet,22,f,71,{'../clone_code/dl/adanet/adanet/core/timer_test.py.pyindent'},"{43, 37, 30}","{49, 42, 36}",3,Function,type 3,Deep Learning,0,7,Same file, others
+adanet,28,f,75,{'../clone_code/dl/adanet/adanet/core/testing_utils.py.pyindent'},"{337, 389}","{434, 388}",2,Function,type 3,Deep Learning,0,52,Same file, model construction
+adanet,31,f,77,{'../clone_code/dl/adanet/adanet/autoensemble/estimator.py.pyindent'},"{177, 359}","{414, 222}",2,Function,type 3,Deep Learning,0,56,Same file, model construction
+adanet,43,f,70,{'../clone_code/dl/adanet/research/improve_nas/trainer/nasnet.py.pyindent'},"{104, 77}","{120, 103}",2,Function,type 3,Deep Learning,0,27,Same file, model construction
+adanet,45,f,90,{'../clone_code/dl/adanet/research/improve_nas/trainer/nasnet.py.pyindent'},"{300, 405, 350}","{456, 401, 346}",3,Function,type 3,Deep Learning,0,52,Same file, model construction
+keras-applications,1,f,70,{'../clone_code/dl/keras-applications/tests/applications_test.py.pyindent'},"{191, 261, 231, 201, 269, 241, 211, 251, 221, 287}","{260, 230, 295, 200, 268, 240, 210, 277, 250, 220}",10,Function,type 3,Deep Learning,0,10,Same file, others
+keras-applications,2,f,83,{'../clone_code/dl/keras-applications/tests/imagenet_utils_test.py.pyindent'},"{20, 14}","{24, 19}",2,Function,type 3,Deep Learning,0,6,Same file, data preprocessing
+nn-wtf,2,f,83,{'../clone_code/dl/nn-wtf/nn_wtf/images_labels_data_set.py.pyindent'},"{42, 30}","{48, 41}",2,Function,type 3,Deep Learning,0,12,Same file, data preprocessing
+nn-wtf,3,f,75,{'../clone_code/dl/nn-wtf/nn_wtf/input_data.py.pyindent'},"{57, 43, 86, 71}","{56, 100, 85, 70}",4,Function,type 3,Deep Learning,0,15,Same file, data collection
+nn-wtf,6,f,80,{'../clone_code/dl/nn-wtf/nn_wtf/predictor.py.pyindent'},"{18, 26}","{29, 21}",2,Function,type 3,Deep Learning,0,4,Same file, model evaluation
+nn-wtf,7,f,83,{'../clone_code/dl/nn-wtf/nn_wtf/tests/save_and_restore_test.py.pyindent'},"{41, 36}","{40, 45}",2,Function,type 3,Deep Learning,0,5,Same file, others
+nn-wtf,8,f,71,{'../clone_code/dl/nn-wtf/nn_wtf/tests/trainer_test.py.pyindent'},"{38, 43, 48, 53, 28, 62}","{32, 68, 42, 47, 52, 57}",6,Function,type 3,Deep Learning,0,7,Same file, others
+nn-wtf,10,f,71,{'../clone_code/dl/nn-wtf/nn_wtf/tests/input_data_test.py.pyindent'},"{45, 38}","{51, 44}",2,Function,type 3,Deep Learning,0,7,Same file, others
+nn-wtf,11,f,71,{'../clone_code/dl/nn-wtf/nn_wtf/tests/input_data_test.py.pyindent'},"{59, 71}","{64, 77}",2,Function,type 3,Deep Learning,0,7,Same file, others
+nn-wtf,12,f,70,{'../clone_code/dl/nn-wtf/nn_wtf/tests/input_data_test.py.pyindent'},"{92, 86}","{99, 91}",2,Function,type 3,Deep Learning,0,8,Same file, others
+ranking,1,f,94,{'../clone_code/dl/ranking/tensorflow_ranking/examples/tf_ranking_tfrecord_test.py.pyindent'},"{105, 79}","{104, 132}",2,Function,type 3,Deep Learning,0,28,Same file, others
+ranking,6,f,81,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'},"{131, 142, 111, 151, 120}","{130, 141, 150, 119, 159}",5,Function,type 3,Deep Learning,0,11,Same file, data preprocessing 
+ranking,7,f,73,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'},"{256, 179}","{206, 287}",2,Function,type 3,Deep Learning,0,32,Same file, data preprocessing
+ranking,8,f,90,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'},"{353, 207}","{378, 231}",2,Function,type 3,Deep Learning,0,26,Same file, data preprocessing
+ranking,9,f,78,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'},"{288, 322}","{352, 321}",2,Function,type 3,Deep Learning,0,34,Same file, data preprocessing
+ranking,9,f,78,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics.py.pyindent'},"{288, 322}","{352, 321}",2,Function,type 3,Deep Learning,0,31,Same file, data preprocessing
+ranking,12,f,71,{'../clone_code/dl/ranking/tensorflow_ranking/python/metrics_test.py.pyindent'},"{265, 234, 540, 277}","{550, 276, 246, 286}",4,Function,type 3,Deep Learning,0,13,Same file, others
+ranking,13,f,77,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses.py.pyindent'},"{248, 258}","{257, 267}",2,Function,type 3,Deep Learning,0,10,Same file, model construction
+ranking,14,f,80,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses.py.pyindent'},"{321, 356, 394, 438, 471, 504, 285}","{320, 544, 355, 393, 437, 470, 503}",7,Function,type 3,Deep Learning,0,44,Same file, model training
+ranking,15,f,92,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses.py.pyindent'},"{545, 582}","{616, 581}",2,Function,type 3,Deep Learning,0,37,Same file, model training
+ranking,16,f,70,{'../clone_code/dl/ranking/tensorflow_ranking/python/data_test.py.pyindent'},"{548, 401, 307, 372, 278, 252, 575}","{332, 429, 398, 306, 277, 602, 574}",7,Function,type 3,Deep Learning,0,29,Same file, others
+ranking,17,f,72,{'../clone_code/dl/ranking/tensorflow_ranking/python/data_test.py.pyindent'},"{456, 430}","{479, 455}",2,Function,type 3,Deep Learning,0,26,Same file, others
+ranking,18,f,85,{'../clone_code/dl/ranking/tensorflow_ranking/python/data_test.py.pyindent'},"{737, 613}","{787, 661}",2,Function,type 3,Deep Learning,0,51,Same file, others
+ranking,20,f,70,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_test.py.pyindent'},"{68, 1028, 102, 39, 136, 1038, 79, 1008, 113, 147, 696, 89, 1018, 124}","{706, 1027, 101, 135, 1037, 78, 112, 50, 146, 1047, 88, 1017, 123, 157}",14,Function,type 3,Deep Learning,0,13,Same file, others
+ranking,21,f,78,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_test.py.pyindent'},"{51, 165}","{67, 181}",2,Function,type 3,Deep Learning,0,17,Same file, others
+ranking,23,f,84,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_test.py.pyindent'},"{529, 586, 723, 642}","{622, 678, 565, 758}",4,Function,type 3,Deep Learning,0,37,Same file, others
+ranking,25,f,89,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_test.py.pyindent'},"{857, 791}","{840, 904}",2,Function,type 3,Deep Learning,0,50,Same file, others
+ranking,26,f,71,{'../clone_code/dl/ranking/tensorflow_ranking/python/utils_test.py.pyindent'},"{32, 143}","{152, 39}",2,Function,type 3,Deep Learning,0,10,Same file, others
+ranking,27,f,73,{'../clone_code/dl/ranking/tensorflow_ranking/python/feature_test.py.pyindent'},"{234, 338, 284, 173}","{337, 233, 283, 391}",4,Function,type 3,Deep Learning,0,61,Same file, others
+ranking,28,f,80,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_impl.py.pyindent'},"{84, 367}","{98, 386}",2,Function,type 3,Deep Learning,0,20,Same file, model construction
+ranking,29,f,85,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_impl.py.pyindent'},"{387, 590}","{410, 596}",2,Function,type 3,Deep Learning,0,24,Same file, model training
+ranking,30,f,83,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_impl.py.pyindent'},"{411, 597}","{432, 603}",2,Function,type 3,Deep Learning,0,22,Same file, model training
+ranking,32,f,81,{'../clone_code/dl/ranking/tensorflow_ranking/python/losses_impl.py.pyindent'},"{622, 478}","{493, 630}",2,Function,type 3,Deep Learning,0,16,Same file, model training
