@@ -1,117 +1,232 @@
-repoName,granularity,clone_type,language,nb_fragment
-CeNiN,Block,type 1,csharp,28
-CeNiN,Block,type 2,csharp,10
-CeNiN,Block,type 3,csharp,6
-CeNiN,Function,type 1,csharp,8
-CeNiN,Function,type 3,csharp,4
-ConvNetSharp,Block,type 1,csharp,480
-ConvNetSharp,Block,type 2,csharp,398
-ConvNetSharp,Block,type 3,csharp,388
-ConvNetSharp,Function,type 1,csharp,142
-ConvNetSharp,Function,type 2,csharp,256
-ConvNetSharp,Function,type 3,csharp,247
-DeepDriver,Block,type 1,java,2333
-DeepDriver,Block,type 2,java,1433
-DeepDriver,Block,type 3,java,1084
-DeepDriver,Function,type 1,java,1163
-DeepDriver,Function,type 2,java,614
-DeepDriver,Function,type 3,java,547
-FaceONNX,Block,type 1,csharp,247
-FaceONNX,Block,type 2,csharp,16
-FaceONNX,Block,type 3,csharp,32
-FaceONNX,Function,type 1,csharp,202
-FaceONNX,Function,type 3,csharp,27
-KelpNet,Block,type 1,csharp,191
-KelpNet,Block,type 2,csharp,473
-KelpNet,Block,type 3,csharp,326
-KelpNet,Function,type 1,csharp,68
-KelpNet,Function,type 2,csharp,251
-KelpNet,Function,type 3,csharp,133
-Keras.NET,Block,type 1,csharp,76
-Keras.NET,Block,type 2,csharp,250
-Keras.NET,Block,type 3,csharp,160
-Keras.NET,Function,type 2,csharp,20
-Keras.NET,Function,type 3,csharp,49
-MyCaffe,Block,type 1,csharp,6785
-MyCaffe,Block,type 2,csharp,14159
-MyCaffe,Block,type 3,csharp,4576
-MyCaffe,Function,type 1,csharp,1433
-MyCaffe,Function,type 2,csharp,8147
-MyCaffe,Function,type 3,csharp,2616
-NeuralNetwork.NET,Block,type 1,csharp,131
-NeuralNetwork.NET,Block,type 2,csharp,192
-NeuralNetwork.NET,Block,type 3,csharp,228
-NeuralNetwork.NET,Function,type 1,csharp,24
-NeuralNetwork.NET,Function,type 2,csharp,58
-NeuralNetwork.NET,Function,type 3,csharp,119
-RNNSharp,Block,type 1,csharp,108
-RNNSharp,Block,type 2,csharp,220
-RNNSharp,Block,type 3,csharp,139
-RNNSharp,Function,type 1,csharp,7
-RNNSharp,Function,type 2,csharp,47
-RNNSharp,Function,type 3,csharp,34
-SANNet,Block,type 1,java,490
-SANNet,Block,type 2,java,688
-SANNet,Block,type 3,java,388
-SANNet,Function,type 1,java,237
-SANNet,Function,type 2,java,628
-SANNet,Function,type 3,java,255
-Seq2SeqSharp,Block,type 1,csharp,391
-Seq2SeqSharp,Block,type 2,csharp,684
-Seq2SeqSharp,Block,type 3,csharp,477
-Seq2SeqSharp,Function,type 1,csharp,51
-Seq2SeqSharp,Function,type 2,csharp,293
-Seq2SeqSharp,Function,type 3,csharp,210
-SharpNet,Block,type 1,csharp,97
-SharpNet,Block,type 2,csharp,478
-SharpNet,Block,type 3,csharp,377
-SharpNet,Function,type 1,csharp,19
-SharpNet,Function,type 2,csharp,290
-SharpNet,Function,type 3,csharp,200
-SiaNet,Block,type 1,csharp,32365
-SiaNet,Block,type 2,csharp,23289
-SiaNet,Block,type 3,csharp,14874
-SiaNet,Function,type 1,csharp,23558
-SiaNet,Function,type 2,csharp,19853
-SiaNet,Function,type 3,csharp,12816
-TensorShader,Block,type 1,csharp,1257
-TensorShader,Block,type 2,csharp,2652
-TensorShader,Block,type 3,csharp,1902
-TensorShader,Function,type 1,csharp,553
-TensorShader,Function,type 2,csharp,1621
-TensorShader,Function,type 3,csharp,954
-Vortex,Block,type 1,csharp,109
-Vortex,Block,type 2,csharp,145
-Vortex,Block,type 3,csharp,133
-Vortex,Function,type 1,csharp,28
-Vortex,Function,type 2,csharp,123
-Vortex,Function,type 3,csharp,117
-deeplearning4j,Block,type 1,java,17830
-deeplearning4j,Block,type 2,java,21181
-deeplearning4j,Block,type 3,java,10132
-deeplearning4j,Function,type 1,java,6735
-deeplearning4j,Function,type 2,java,15575
-deeplearning4j,Function,type 3,java,8102
-djl,Block,type 1,java,1198
-djl,Block,type 2,java,1864
-djl,Block,type 3,java,1411
-djl,Function,type 1,java,443
-djl,Function,type 2,java,1200
-djl,Function,type 3,java,896
-keras-sharp,Block,type 1,csharp,112
-keras-sharp,Block,type 2,csharp,273
-keras-sharp,Block,type 3,csharp,116
-keras-sharp,Function,type 2,csharp,144
-keras-sharp,Function,type 3,csharp,61
-knime-deeplearning,Block,type 1,java,1862
-knime-deeplearning,Block,type 2,java,2108
-knime-deeplearning,Block,type 3,java,1111
-knime-deeplearning,Function,type 1,java,1329
-knime-deeplearning,Function,type 2,java,1361
-knime-deeplearning,Function,type 3,java,717
-neuralnetworks,Block,type 1,java,7341
-neuralnetworks,Block,type 2,java,16250
-neuralnetworks,Block,type 3,java,3959
-neuralnetworks,Function,type 1,java,3216
-neuralnetworks,Function,type 2,java,11665
-neuralnetworks,Function,type 3,java,2654
+repoName,granularity,clone_type,language,reposType,nb_fragment
+AspectCore-Framework,Block,type 1,csharp,Traditional,212
+AspectCore-Framework,Block,type 2,csharp,Traditional,150
+AspectCore-Framework,Block,type 3,csharp,Traditional,347
+AspectCore-Framework,Function,type 1,csharp,Traditional,48
+AspectCore-Framework,Function,type 2,csharp,Traditional,110
+AspectCore-Framework,Function,type 3,csharp,Traditional,251
+Avalonia,Block,type 1,csharp,Traditional,1974
+Avalonia,Block,type 2,csharp,Traditional,1241
+Avalonia,Block,type 3,csharp,Traditional,4005
+Avalonia,Function,type 1,csharp,Traditional,693
+Avalonia,Function,type 2,csharp,Traditional,621
+Avalonia,Function,type 3,csharp,Traditional,2598
+CeNiN,Block,type 1,csharp,Deep Learning,28
+CeNiN,Block,type 2,csharp,Deep Learning,10
+CeNiN,Block,type 3,csharp,Deep Learning,6
+CeNiN,Function,type 1,csharp,Deep Learning,8
+CeNiN,Function,type 3,csharp,Deep Learning,4
+ConvNetSharp,Block,type 1,csharp,Deep Learning,480
+ConvNetSharp,Block,type 2,csharp,Deep Learning,398
+ConvNetSharp,Block,type 3,csharp,Deep Learning,388
+ConvNetSharp,Function,type 1,csharp,Deep Learning,142
+ConvNetSharp,Function,type 2,csharp,Deep Learning,256
+ConvNetSharp,Function,type 3,csharp,Deep Learning,247
+Dapper,Block,type 1,csharp,Traditional,99
+Dapper,Block,type 2,csharp,Traditional,48
+Dapper,Block,type 3,csharp,Traditional,166
+Dapper,Function,type 1,csharp,Traditional,16
+Dapper,Function,type 2,csharp,Traditional,20
+Dapper,Function,type 3,csharp,Traditional,79
+DeepDriver,Block,type 1,java,Deep Learning,2333
+DeepDriver,Block,type 2,java,Deep Learning,1433
+DeepDriver,Block,type 3,java,Deep Learning,1084
+DeepDriver,Function,type 1,java,Deep Learning,1163
+DeepDriver,Function,type 2,java,Deep Learning,614
+DeepDriver,Function,type 3,java,Deep Learning,547
+EntityFramework.Extended,Block,type 1,csharp,Traditional,536
+EntityFramework.Extended,Block,type 2,csharp,Traditional,82
+EntityFramework.Extended,Block,type 3,csharp,Traditional,182
+EntityFramework.Extended,Function,type 1,csharp,Traditional,348
+EntityFramework.Extended,Function,type 2,csharp,Traditional,61
+EntityFramework.Extended,Function,type 3,csharp,Traditional,151
+FaceONNX,Block,type 1,csharp,Deep Learning,247
+FaceONNX,Block,type 2,csharp,Deep Learning,16
+FaceONNX,Block,type 3,csharp,Deep Learning,32
+FaceONNX,Function,type 1,csharp,Deep Learning,202
+FaceONNX,Function,type 3,csharp,Deep Learning,27
+KelpNet,Block,type 1,csharp,Deep Learning,191
+KelpNet,Block,type 2,csharp,Deep Learning,473
+KelpNet,Block,type 3,csharp,Deep Learning,326
+KelpNet,Function,type 1,csharp,Deep Learning,68
+KelpNet,Function,type 2,csharp,Deep Learning,251
+KelpNet,Function,type 3,csharp,Deep Learning,133
+Keras.NET,Block,type 1,csharp,Deep Learning,76
+Keras.NET,Block,type 2,csharp,Deep Learning,250
+Keras.NET,Block,type 3,csharp,Deep Learning,160
+Keras.NET,Function,type 2,csharp,Deep Learning,20
+Keras.NET,Function,type 3,csharp,Deep Learning,49
+LockstepFramework,Block,type 1,csharp,Traditional,150
+LockstepFramework,Block,type 2,csharp,Traditional,125
+LockstepFramework,Block,type 3,csharp,Traditional,443
+LockstepFramework,Function,type 1,csharp,Traditional,24
+LockstepFramework,Function,type 2,csharp,Traditional,44
+LockstepFramework,Function,type 3,csharp,Traditional,118
+MPAndroidChart,Block,type 1,java,Traditional,993
+MPAndroidChart,Block,type 2,java,Traditional,257
+MPAndroidChart,Block,type 3,java,Traditional,568
+MPAndroidChart,Function,type 1,java,Traditional,123
+MPAndroidChart,Function,type 2,java,Traditional,83
+MPAndroidChart,Function,type 3,java,Traditional,242
+MassTransit,Block,type 1,csharp,Traditional,6786
+MassTransit,Block,type 2,csharp,Traditional,1632
+MassTransit,Block,type 3,csharp,Traditional,3617
+MassTransit,Function,type 1,csharp,Traditional,2753
+MassTransit,Function,type 2,csharp,Traditional,1146
+MassTransit,Function,type 3,csharp,Traditional,2645
+MyCaffe,Block,type 1,csharp,Deep Learning,6785
+MyCaffe,Block,type 2,csharp,Deep Learning,14159
+MyCaffe,Block,type 3,csharp,Deep Learning,4576
+MyCaffe,Function,type 1,csharp,Deep Learning,1433
+MyCaffe,Function,type 2,csharp,Deep Learning,8147
+MyCaffe,Function,type 3,csharp,Deep Learning,2616
+NeuralNetwork.NET,Block,type 1,csharp,Deep Learning,131
+NeuralNetwork.NET,Block,type 2,csharp,Deep Learning,192
+NeuralNetwork.NET,Block,type 3,csharp,Deep Learning,228
+NeuralNetwork.NET,Function,type 1,csharp,Deep Learning,24
+NeuralNetwork.NET,Function,type 2,csharp,Deep Learning,58
+NeuralNetwork.NET,Function,type 3,csharp,Deep Learning,119
+Pomelo.EntityFrameworkCore.MySql,Block,type 1,csharp,Traditional,504
+Pomelo.EntityFrameworkCore.MySql,Block,type 2,csharp,Traditional,242
+Pomelo.EntityFrameworkCore.MySql,Block,type 3,csharp,Traditional,664
+Pomelo.EntityFrameworkCore.MySql,Function,type 1,csharp,Traditional,216
+Pomelo.EntityFrameworkCore.MySql,Function,type 2,csharp,Traditional,219
+Pomelo.EntityFrameworkCore.MySql,Function,type 3,csharp,Traditional,517
+PowerShell,Block,type 1,csharp,Traditional,4867
+PowerShell,Block,type 2,csharp,Traditional,2396
+PowerShell,Block,type 3,csharp,Traditional,5353
+PowerShell,Function,type 1,csharp,Traditional,755
+PowerShell,Function,type 2,csharp,Traditional,803
+PowerShell,Function,type 3,csharp,Traditional,2150
+RNNSharp,Block,type 1,csharp,Deep Learning,108
+RNNSharp,Block,type 2,csharp,Deep Learning,220
+RNNSharp,Block,type 3,csharp,Deep Learning,139
+RNNSharp,Function,type 1,csharp,Deep Learning,7
+RNNSharp,Function,type 2,csharp,Deep Learning,47
+RNNSharp,Function,type 3,csharp,Deep Learning,34
+SANNet,Block,type 1,java,Deep Learning,490
+SANNet,Block,type 2,java,Deep Learning,688
+SANNet,Block,type 3,java,Deep Learning,388
+SANNet,Function,type 1,java,Deep Learning,237
+SANNet,Function,type 2,java,Deep Learning,628
+SANNet,Function,type 3,java,Deep Learning,255
+ScreenToGif,Block,type 1,csharp,Traditional,2139
+ScreenToGif,Block,type 2,csharp,Traditional,317
+ScreenToGif,Block,type 3,csharp,Traditional,1221
+ScreenToGif,Function,type 1,csharp,Traditional,697
+ScreenToGif,Function,type 2,csharp,Traditional,124
+ScreenToGif,Function,type 3,csharp,Traditional,503
+Seq2SeqSharp,Block,type 1,csharp,Deep Learning,391
+Seq2SeqSharp,Block,type 2,csharp,Deep Learning,684
+Seq2SeqSharp,Block,type 3,csharp,Deep Learning,477
+Seq2SeqSharp,Function,type 1,csharp,Deep Learning,51
+Seq2SeqSharp,Function,type 2,csharp,Deep Learning,293
+Seq2SeqSharp,Function,type 3,csharp,Deep Learning,210
+ShareX,Block,type 1,csharp,Traditional,761
+ShareX,Block,type 2,csharp,Traditional,628
+ShareX,Block,type 3,csharp,Traditional,1612
+ShareX,Function,type 1,csharp,Traditional,224
+ShareX,Function,type 2,csharp,Traditional,285
+ShareX,Function,type 3,csharp,Traditional,714
+SharpNet,Block,type 1,csharp,Deep Learning,97
+SharpNet,Block,type 2,csharp,Deep Learning,478
+SharpNet,Block,type 3,csharp,Deep Learning,377
+SharpNet,Function,type 1,csharp,Deep Learning,19
+SharpNet,Function,type 2,csharp,Deep Learning,290
+SharpNet,Function,type 3,csharp,Deep Learning,200
+SiaNet,Block,type 1,csharp,Deep Learning,32365
+SiaNet,Block,type 2,csharp,Deep Learning,23289
+SiaNet,Block,type 3,csharp,Deep Learning,14874
+SiaNet,Function,type 1,csharp,Deep Learning,23558
+SiaNet,Function,type 2,csharp,Deep Learning,19853
+SiaNet,Function,type 3,csharp,Deep Learning,12816
+TensorShader,Block,type 1,csharp,Deep Learning,1257
+TensorShader,Block,type 2,csharp,Deep Learning,2652
+TensorShader,Block,type 3,csharp,Deep Learning,1902
+TensorShader,Function,type 1,csharp,Deep Learning,553
+TensorShader,Function,type 2,csharp,Deep Learning,1621
+TensorShader,Function,type 3,csharp,Deep Learning,954
+Vortex,Block,type 1,csharp,Deep Learning,109
+Vortex,Block,type 2,csharp,Deep Learning,145
+Vortex,Block,type 3,csharp,Deep Learning,133
+Vortex,Function,type 1,csharp,Deep Learning,28
+Vortex,Function,type 2,csharp,Deep Learning,123
+Vortex,Function,type 3,csharp,Deep Learning,117
+aspnetboilerplate,Block,type 1,csharp,Traditional,2609
+aspnetboilerplate,Block,type 2,csharp,Traditional,806
+aspnetboilerplate,Block,type 3,csharp,Traditional,2363
+aspnetboilerplate,Function,type 1,csharp,Traditional,1023
+aspnetboilerplate,Function,type 2,csharp,Traditional,425
+aspnetboilerplate,Function,type 3,csharp,Traditional,1304
+deeplearning4j,Block,type 1,java,Deep Learning,17830
+deeplearning4j,Block,type 2,java,Deep Learning,21181
+deeplearning4j,Block,type 3,java,Deep Learning,10132
+deeplearning4j,Function,type 1,java,Deep Learning,6735
+deeplearning4j,Function,type 2,java,Deep Learning,15575
+deeplearning4j,Function,type 3,java,Deep Learning,8102
+djl,Block,type 1,java,Deep Learning,1198
+djl,Block,type 2,java,Deep Learning,1864
+djl,Block,type 3,java,Deep Learning,1411
+djl,Function,type 1,java,Deep Learning,443
+djl,Function,type 2,java,Deep Learning,1200
+djl,Function,type 3,java,Deep Learning,896
+dubbo,Function,type 1,java,Traditional,6708
+dubbo,Function,type 2,java,Traditional,1652
+dubbo,Function,type 3,java,Traditional,3173
+efcore,Block,type 1,csharp,Traditional,15855
+efcore,Block,type 2,csharp,Traditional,5403
+efcore,Block,type 3,csharp,Traditional,14313
+efcore,Function,type 1,csharp,Traditional,6993
+efcore,Function,type 2,csharp,Traditional,3996
+efcore,Function,type 3,csharp,Traditional,10629
+framework,Block,type 1,java,Traditional,13198
+framework,Block,type 2,java,Traditional,2608
+framework,Block,type 3,java,Traditional,6352
+framework,Function,type 1,java,Traditional,9436
+framework,Function,type 2,java,Traditional,1574
+framework,Function,type 3,java,Traditional,5609
+jellyfin,Block,type 1,csharp,Traditional,1664
+jellyfin,Block,type 2,csharp,Traditional,701
+jellyfin,Block,type 3,csharp,Traditional,2162
+jellyfin,Function,type 1,csharp,Traditional,291
+jellyfin,Function,type 2,csharp,Traditional,209
+jellyfin,Function,type 3,csharp,Traditional,670
+keras-sharp,Block,type 1,csharp,Deep Learning,112
+keras-sharp,Block,type 2,csharp,Deep Learning,273
+keras-sharp,Block,type 3,csharp,Deep Learning,116
+keras-sharp,Function,type 2,csharp,Deep Learning,144
+keras-sharp,Function,type 3,csharp,Deep Learning,61
+knime-deeplearning,Block,type 1,java,Deep Learning,1862
+knime-deeplearning,Block,type 2,java,Deep Learning,2108
+knime-deeplearning,Block,type 3,java,Deep Learning,1111
+knime-deeplearning,Function,type 1,java,Deep Learning,1329
+knime-deeplearning,Function,type 2,java,Deep Learning,1361
+knime-deeplearning,Function,type 3,java,Deep Learning,717
+neuralnetworks,Block,type 1,java,Deep Learning,7341
+neuralnetworks,Block,type 2,java,Deep Learning,16250
+neuralnetworks,Block,type 3,java,Deep Learning,3959
+neuralnetworks,Function,type 1,java,Deep Learning,3216
+neuralnetworks,Function,type 2,java,Deep Learning,11665
+neuralnetworks,Function,type 3,java,Deep Learning,2654
+okhttp,Block,type 1,java,Traditional,562
+okhttp,Block,type 2,java,Traditional,108
+okhttp,Block,type 3,java,Traditional,799
+okhttp,Function,type 1,java,Traditional,423
+okhttp,Function,type 2,java,Traditional,100
+okhttp,Function,type 3,java,Traditional,651
+retrofit,Block,type 1,java,Traditional,1383
+retrofit,Block,type 2,java,Traditional,267
+retrofit,Block,type 3,java,Traditional,737
+retrofit,Function,type 1,java,Traditional,1178
+retrofit,Function,type 2,java,Traditional,207
+retrofit,Function,type 3,java,Traditional,649
+shadowsocks-windows,Block,type 2,csharp,Traditional,16
+shadowsocks-windows,Block,type 3,csharp,Traditional,98
+shadowsocks-windows,Function,type 2,csharp,Traditional,7
+shadowsocks-windows,Function,type 3,csharp,Traditional,38
+spring-framework,Block,type 1,java,Traditional,14523
+spring-framework,Block,type 2,java,Traditional,4733
+spring-framework,Block,type 3,java,Traditional,11701
+spring-framework,Function,type 1,java,Traditional,9156
+spring-framework,Function,type 2,java,Traditional,3380
+spring-framework,Function,type 3,java,Traditional,12252

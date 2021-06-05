@@ -1,117 +1,232 @@
-repoName,granularity,clone_type,language,nb_fragment,repo,repoName_path,reposType,total_sloc,normalization_occs
-CeNiN,Block,type 1,csharp,28,CeNiN,b-repositories/DL/csharp/CeNiN,Deep Learning,1438,0.019471488178025034
-CeNiN,Block,type 2,csharp,10,CeNiN,b-repositories/DL/csharp/CeNiN,Deep Learning,1438,0.006954102920723227
-CeNiN,Block,type 3,csharp,6,CeNiN,b-repositories/DL/csharp/CeNiN,Deep Learning,1438,0.004172461752433936
-CeNiN,Function,type 1,csharp,8,CeNiN,b-repositories/DL/csharp/CeNiN,Deep Learning,1438,0.005563282336578581
-CeNiN,Function,type 3,csharp,4,CeNiN,b-repositories/DL/csharp/CeNiN,Deep Learning,1438,0.0027816411682892906
-ConvNetSharp,Block,type 1,csharp,480,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,Deep Learning,16620,0.02888086642599278
-ConvNetSharp,Block,type 2,csharp,398,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,Deep Learning,16620,0.02394705174488568
-ConvNetSharp,Block,type 3,csharp,388,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,Deep Learning,16620,0.023345367027677498
-ConvNetSharp,Function,type 1,csharp,142,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,Deep Learning,16620,0.008543922984356198
-ConvNetSharp,Function,type 2,csharp,256,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,Deep Learning,16620,0.015403128760529482
-ConvNetSharp,Function,type 3,csharp,247,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,Deep Learning,16620,0.014861612515042118
-DeepDriver,Block,type 1,java,2333,DeepDriver,b-repositories/DL/java/DeepDriver,Deep Learning,32265,0.07230745389741206
-DeepDriver,Block,type 2,java,1433,DeepDriver,b-repositories/DL/java/DeepDriver,Deep Learning,32265,0.04441345110801178
-DeepDriver,Block,type 3,java,1084,DeepDriver,b-repositories/DL/java/DeepDriver,Deep Learning,32265,0.033596776693011005
-DeepDriver,Function,type 1,java,1163,DeepDriver,b-repositories/DL/java/DeepDriver,Deep Learning,32265,0.036045250271191695
-DeepDriver,Function,type 2,java,614,DeepDriver,b-repositories/DL/java/DeepDriver,Deep Learning,32265,0.019029908569657524
-DeepDriver,Function,type 3,java,547,DeepDriver,b-repositories/DL/java/DeepDriver,Deep Learning,32265,0.016953355028668834
-FaceONNX,Block,type 1,csharp,247,FaceONNX,b-repositories/DL/csharp/FaceONNX,Deep Learning,2263,0.10914714980114892
-FaceONNX,Block,type 2,csharp,16,FaceONNX,b-repositories/DL/csharp/FaceONNX,Deep Learning,2263,0.007070260715863898
-FaceONNX,Block,type 3,csharp,32,FaceONNX,b-repositories/DL/csharp/FaceONNX,Deep Learning,2263,0.014140521431727796
-FaceONNX,Function,type 1,csharp,202,FaceONNX,b-repositories/DL/csharp/FaceONNX,Deep Learning,2263,0.08926204153778171
-FaceONNX,Function,type 3,csharp,27,FaceONNX,b-repositories/DL/csharp/FaceONNX,Deep Learning,2263,0.011931064958020326
-KelpNet,Block,type 1,csharp,191,KelpNet,b-repositories/DL/csharp/KelpNet,Deep Learning,21045,0.009075789973865525
-KelpNet,Block,type 2,csharp,473,KelpNet,b-repositories/DL/csharp/KelpNet,Deep Learning,21045,0.022475647422190544
-KelpNet,Block,type 3,csharp,326,KelpNet,b-repositories/DL/csharp/KelpNet,Deep Learning,21045,0.015490615348063673
-KelpNet,Function,type 1,csharp,68,KelpNet,b-repositories/DL/csharp/KelpNet,Deep Learning,21045,0.0032311712995961037
-KelpNet,Function,type 2,csharp,251,KelpNet,b-repositories/DL/csharp/KelpNet,Deep Learning,21045,0.011926823473509146
-KelpNet,Function,type 3,csharp,133,KelpNet,b-repositories/DL/csharp/KelpNet,Deep Learning,21045,0.006319790924210026
-Keras.NET,Block,type 1,csharp,76,Keras.NET,b-repositories/DL/csharp/Keras.NET,Deep Learning,5454,0.013934726806013934
-Keras.NET,Block,type 2,csharp,250,Keras.NET,b-repositories/DL/csharp/Keras.NET,Deep Learning,5454,0.04583791712504584
-Keras.NET,Block,type 3,csharp,160,Keras.NET,b-repositories/DL/csharp/Keras.NET,Deep Learning,5454,0.029336266960029337
-Keras.NET,Function,type 2,csharp,20,Keras.NET,b-repositories/DL/csharp/Keras.NET,Deep Learning,5454,0.003667033370003667
-Keras.NET,Function,type 3,csharp,49,Keras.NET,b-repositories/DL/csharp/Keras.NET,Deep Learning,5454,0.008984231756508984
-MyCaffe,Block,type 1,csharp,6785,MyCaffe,b-repositories/DL/csharp/MyCaffe,Deep Learning,180353,0.03762066613807367
-MyCaffe,Block,type 2,csharp,14159,MyCaffe,b-repositories/DL/csharp/MyCaffe,Deep Learning,180353,0.07850714986720488
-MyCaffe,Block,type 3,csharp,4576,MyCaffe,b-repositories/DL/csharp/MyCaffe,Deep Learning,180353,0.025372464001153294
-MyCaffe,Function,type 1,csharp,1433,MyCaffe,b-repositories/DL/csharp/MyCaffe,Deep Learning,180353,0.007945529045815705
-MyCaffe,Function,type 2,csharp,8147,MyCaffe,b-repositories/DL/csharp/MyCaffe,Deep Learning,180353,0.045172522774780566
-MyCaffe,Function,type 3,csharp,2616,MyCaffe,b-repositories/DL/csharp/MyCaffe,Deep Learning,180353,0.01450488763702295
-NeuralNetwork.NET,Block,type 1,csharp,131,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,Deep Learning,12201,0.010736824850422096
-NeuralNetwork.NET,Block,type 2,csharp,192,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,Deep Learning,12201,0.01573641504794689
-NeuralNetwork.NET,Block,type 3,csharp,228,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,Deep Learning,12201,0.01868699286943693
-NeuralNetwork.NET,Function,type 1,csharp,24,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,Deep Learning,12201,0.001967051880993361
-NeuralNetwork.NET,Function,type 2,csharp,58,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,Deep Learning,12201,0.004753708712400623
-NeuralNetwork.NET,Function,type 3,csharp,119,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,Deep Learning,12201,0.009753298909925417
-RNNSharp,Block,type 1,csharp,108,RNNSharp,b-repositories/DL/csharp/RNNSharp,Deep Learning,6316,0.017099430018999367
-RNNSharp,Block,type 2,csharp,220,RNNSharp,b-repositories/DL/csharp/RNNSharp,Deep Learning,6316,0.03483217226092464
-RNNSharp,Block,type 3,csharp,139,RNNSharp,b-repositories/DL/csharp/RNNSharp,Deep Learning,6316,0.02200759974667511
-RNNSharp,Function,type 1,csharp,7,RNNSharp,b-repositories/DL/csharp/RNNSharp,Deep Learning,6316,0.0011082963901203294
-RNNSharp,Function,type 2,csharp,47,RNNSharp,b-repositories/DL/csharp/RNNSharp,Deep Learning,6316,0.007441418619379354
-RNNSharp,Function,type 3,csharp,34,RNNSharp,b-repositories/DL/csharp/RNNSharp,Deep Learning,6316,0.005383153894870171
-SANNet,Block,type 1,java,490,SANNet,b-repositories/DL/java/SANNet,Deep Learning,16172,0.030299282710858272
-SANNet,Block,type 2,java,688,SANNet,b-repositories/DL/java/SANNet,Deep Learning,16172,0.04254266633687855
-SANNet,Block,type 3,java,388,SANNet,b-repositories/DL/java/SANNet,Deep Learning,16172,0.023992085085332675
-SANNet,Function,type 1,java,237,SANNet,b-repositories/DL/java/SANNet,Deep Learning,16172,0.014654959188721247
-SANNet,Function,type 2,java,628,SANNet,b-repositories/DL/java/SANNet,Deep Learning,16172,0.03883255008656938
-SANNet,Function,type 3,java,255,SANNet,b-repositories/DL/java/SANNet,Deep Learning,16172,0.015767994063814
-Seq2SeqSharp,Block,type 1,csharp,391,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,Deep Learning,18088,0.021616541353383457
-Seq2SeqSharp,Block,type 2,csharp,684,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,Deep Learning,18088,0.037815126050420166
-Seq2SeqSharp,Block,type 3,csharp,477,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,Deep Learning,18088,0.02637107474568775
-Seq2SeqSharp,Function,type 1,csharp,51,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,Deep Learning,18088,0.002819548872180451
-Seq2SeqSharp,Function,type 2,csharp,293,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,Deep Learning,18088,0.016198584697036708
-Seq2SeqSharp,Function,type 3,csharp,210,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,Deep Learning,18088,0.011609907120743035
-SharpNet,Block,type 1,csharp,97,SharpNet,b-repositories/DL/csharp/SharpNet,Deep Learning,27593,0.0035153843366071105
-SharpNet,Block,type 2,csharp,478,SharpNet,b-repositories/DL/csharp/SharpNet,Deep Learning,27593,0.01732323415358968
-SharpNet,Block,type 3,csharp,377,SharpNet,b-repositories/DL/csharp/SharpNet,Deep Learning,27593,0.013662885514442068
-SharpNet,Function,type 1,csharp,19,SharpNet,b-repositories/DL/csharp/SharpNet,Deep Learning,27593,0.0006885804370673721
-SharpNet,Function,type 2,csharp,290,SharpNet,b-repositories/DL/csharp/SharpNet,Deep Learning,27593,0.010509911934186206
-SharpNet,Function,type 3,csharp,200,SharpNet,b-repositories/DL/csharp/SharpNet,Deep Learning,27593,0.00724821512702497
-SiaNet,Block,type 1,csharp,32365,SiaNet,b-repositories/DL/csharp/SiaNet,Deep Learning,248467,0.1302587466343619
-SiaNet,Block,type 2,csharp,23289,SiaNet,b-repositories/DL/csharp/SiaNet,Deep Learning,248467,0.09373075700193587
-SiaNet,Block,type 3,csharp,14874,SiaNet,b-repositories/DL/csharp/SiaNet,Deep Learning,248467,0.05986308040906841
-SiaNet,Function,type 1,csharp,23558,SiaNet,b-repositories/DL/csharp/SiaNet,Deep Learning,248467,0.0948133957426942
-SiaNet,Function,type 2,csharp,19853,SiaNet,b-repositories/DL/csharp/SiaNet,Deep Learning,248467,0.0799019588114317
-SiaNet,Function,type 3,csharp,12816,SiaNet,b-repositories/DL/csharp/SiaNet,Deep Learning,248467,0.05158029034036713
-TensorShader,Block,type 1,csharp,1257,TensorShader,b-repositories/DL/csharp/TensorShader,Deep Learning,149199,0.008424989443628978
-TensorShader,Block,type 2,csharp,2652,TensorShader,b-repositories/DL/csharp/TensorShader,Deep Learning,149199,0.0177749180624535
-TensorShader,Block,type 3,csharp,1902,TensorShader,b-repositories/DL/csharp/TensorShader,Deep Learning,149199,0.012748074718999457
-TensorShader,Function,type 1,csharp,553,TensorShader,b-repositories/DL/csharp/TensorShader,Deep Learning,149199,0.0037064591585734487
-TensorShader,Function,type 2,csharp,1621,TensorShader,b-repositories/DL/csharp/TensorShader,Deep Learning,149199,0.010864684079652008
-TensorShader,Function,type 3,csharp,954,TensorShader,b-repositories/DL/csharp/TensorShader,Deep Learning,149199,0.006394144732873545
-Vortex,Block,type 1,csharp,109,Vortex,b-repositories/DL/csharp/Vortex,Deep Learning,5769,0.01889408909689721
-Vortex,Block,type 2,csharp,145,Vortex,b-repositories/DL/csharp/Vortex,Deep Learning,5769,0.025134338706881608
-Vortex,Block,type 3,csharp,133,Vortex,b-repositories/DL/csharp/Vortex,Deep Learning,5769,0.023054255503553476
-Vortex,Function,type 1,csharp,28,Vortex,b-repositories/DL/csharp/Vortex,Deep Learning,5769,0.004853527474432311
-Vortex,Function,type 2,csharp,123,Vortex,b-repositories/DL/csharp/Vortex,Deep Learning,5769,0.021320852834113363
-Vortex,Function,type 3,csharp,117,Vortex,b-repositories/DL/csharp/Vortex,Deep Learning,5769,0.0202808112324493
-deeplearning4j,Block,type 1,java,17830,deeplearning4j,b-repositories/DL/java/deeplearning4j,Deep Learning,526195,0.03388477655621965
-deeplearning4j,Block,type 2,java,21181,deeplearning4j,b-repositories/DL/java/deeplearning4j,Deep Learning,526195,0.04025313809519285
-deeplearning4j,Block,type 3,java,10132,deeplearning4j,b-repositories/DL/java/deeplearning4j,Deep Learning,526195,0.0192552190727772
-deeplearning4j,Function,type 1,java,6735,deeplearning4j,b-repositories/DL/java/deeplearning4j,Deep Learning,526195,0.012799437470899571
-deeplearning4j,Function,type 2,java,15575,deeplearning4j,b-repositories/DL/java/deeplearning4j,Deep Learning,526195,0.029599293037752165
-deeplearning4j,Function,type 3,java,8102,deeplearning4j,b-repositories/DL/java/deeplearning4j,Deep Learning,526195,0.015397333688081414
-djl,Block,type 1,java,1198,djl,b-repositories/DL/java/djl,Deep Learning,74161,0.01615404323026928
-djl,Block,type 2,java,1864,djl,b-repositories/DL/java/djl,Deep Learning,74161,0.02513450465878292
-djl,Block,type 3,java,1411,djl,b-repositories/DL/java/djl,Deep Learning,74161,0.019026172786235352
-djl,Function,type 1,java,443,djl,b-repositories/DL/java/djl,Deep Learning,74161,0.00597349010935667
-djl,Function,type 2,java,1200,djl,b-repositories/DL/java/djl,Deep Learning,74161,0.016181011582907457
-djl,Function,type 3,java,896,djl,b-repositories/DL/java/djl,Deep Learning,74161,0.012081821981904235
-keras-sharp,Block,type 1,csharp,112,keras-sharp,b-repositories/DL/csharp/keras-sharp,Deep Learning,10751,0.010417635568784299
-keras-sharp,Block,type 2,csharp,273,keras-sharp,b-repositories/DL/csharp/keras-sharp,Deep Learning,10751,0.02539298669891173
-keras-sharp,Block,type 3,csharp,116,keras-sharp,b-repositories/DL/csharp/keras-sharp,Deep Learning,10751,0.010789693981955168
-keras-sharp,Function,type 2,csharp,144,keras-sharp,b-repositories/DL/csharp/keras-sharp,Deep Learning,10751,0.013394102874151242
-keras-sharp,Function,type 3,csharp,61,keras-sharp,b-repositories/DL/csharp/keras-sharp,Deep Learning,10751,0.005673890800855734
-knime-deeplearning,Block,type 1,java,1862,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,Deep Learning,49445,0.037658003842653456
-knime-deeplearning,Block,type 2,java,2108,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,Deep Learning,49445,0.042633228840125395
-knime-deeplearning,Block,type 3,java,1111,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,Deep Learning,49445,0.02246941045606229
-knime-deeplearning,Function,type 1,java,1329,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,Deep Learning,49445,0.026878349681464252
-knime-deeplearning,Function,type 2,java,1361,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,Deep Learning,49445,0.0275255334209728
-knime-deeplearning,Function,type 3,java,717,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,Deep Learning,49445,0.014500960663363333
-neuralnetworks,Block,type 1,java,7341,neuralnetworks,b-repositories/DL/java/neuralnetworks,Deep Learning,43902,0.16721333880005468
-neuralnetworks,Block,type 2,java,16250,neuralnetworks,b-repositories/DL/java/neuralnetworks,Deep Learning,43902,0.370142590314792
-neuralnetworks,Block,type 3,java,3959,neuralnetworks,b-repositories/DL/java/neuralnetworks,Deep Learning,43902,0.09017812400346226
-neuralnetworks,Function,type 1,java,3216,neuralnetworks,b-repositories/DL/java/neuralnetworks,Deep Learning,43902,0.07325406587399207
-neuralnetworks,Function,type 2,java,11665,neuralnetworks,b-repositories/DL/java/neuralnetworks,Deep Learning,43902,0.2657054348321261
-neuralnetworks,Function,type 3,java,2654,neuralnetworks,b-repositories/DL/java/neuralnetworks,Deep Learning,43902,0.06045282675048973
+repoName,granularity,clone_type,language,reposType,nb_fragment,repo,repoName_path,total_sloc,normalization_occs
+AspectCore-Framework,Block,type 1,csharp,Traditional,212,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316,0.012243012243012243
+AspectCore-Framework,Block,type 2,csharp,Traditional,150,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316,0.008662508662508662
+AspectCore-Framework,Block,type 3,csharp,Traditional,347,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316,0.02003927003927004
+AspectCore-Framework,Function,type 1,csharp,Traditional,48,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316,0.002772002772002772
+AspectCore-Framework,Function,type 2,csharp,Traditional,110,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316,0.006352506352506352
+AspectCore-Framework,Function,type 3,csharp,Traditional,251,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316,0.014495264495264495
+Avalonia,Block,type 1,csharp,Traditional,1974,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432,0.008042960983082891
+Avalonia,Block,type 2,csharp,Traditional,1241,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432,0.005056390364744614
+Avalonia,Block,type 3,csharp,Traditional,4005,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432,0.01631816552038854
+Avalonia,Function,type 1,csharp,Traditional,693,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432,0.0028235926855503767
+Avalonia,Function,type 2,csharp,Traditional,621,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432,0.0025302324065321555
+Avalonia,Function,type 3,csharp,Traditional,2598,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432,0.010585416734574138
+CeNiN,Block,type 1,csharp,Deep Learning,28,CeNiN,b-repositories/DL/csharp/CeNiN,1438,0.019471488178025034
+CeNiN,Block,type 2,csharp,Deep Learning,10,CeNiN,b-repositories/DL/csharp/CeNiN,1438,0.006954102920723227
+CeNiN,Block,type 3,csharp,Deep Learning,6,CeNiN,b-repositories/DL/csharp/CeNiN,1438,0.004172461752433936
+CeNiN,Function,type 1,csharp,Deep Learning,8,CeNiN,b-repositories/DL/csharp/CeNiN,1438,0.005563282336578581
+CeNiN,Function,type 3,csharp,Deep Learning,4,CeNiN,b-repositories/DL/csharp/CeNiN,1438,0.0027816411682892906
+ConvNetSharp,Block,type 1,csharp,Deep Learning,480,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620,0.02888086642599278
+ConvNetSharp,Block,type 2,csharp,Deep Learning,398,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620,0.02394705174488568
+ConvNetSharp,Block,type 3,csharp,Deep Learning,388,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620,0.023345367027677498
+ConvNetSharp,Function,type 1,csharp,Deep Learning,142,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620,0.008543922984356198
+ConvNetSharp,Function,type 2,csharp,Deep Learning,256,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620,0.015403128760529482
+ConvNetSharp,Function,type 3,csharp,Deep Learning,247,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620,0.014861612515042118
+Dapper,Block,type 1,csharp,Traditional,99,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031,0.005490544063002607
+Dapper,Block,type 2,csharp,Traditional,48,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031,0.002662081969940658
+Dapper,Block,type 3,csharp,Traditional,166,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031,0.009206366812711442
+Dapper,Function,type 1,csharp,Traditional,16,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031,0.000887360656646886
+Dapper,Function,type 2,csharp,Traditional,20,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031,0.0011092008208086074
+Dapper,Function,type 3,csharp,Traditional,79,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031,0.0043813432421939994
+DeepDriver,Block,type 1,java,Deep Learning,2333,DeepDriver,b-repositories/DL/java/DeepDriver,32265,0.07230745389741206
+DeepDriver,Block,type 2,java,Deep Learning,1433,DeepDriver,b-repositories/DL/java/DeepDriver,32265,0.04441345110801178
+DeepDriver,Block,type 3,java,Deep Learning,1084,DeepDriver,b-repositories/DL/java/DeepDriver,32265,0.033596776693011005
+DeepDriver,Function,type 1,java,Deep Learning,1163,DeepDriver,b-repositories/DL/java/DeepDriver,32265,0.036045250271191695
+DeepDriver,Function,type 2,java,Deep Learning,614,DeepDriver,b-repositories/DL/java/DeepDriver,32265,0.019029908569657524
+DeepDriver,Function,type 3,java,Deep Learning,547,DeepDriver,b-repositories/DL/java/DeepDriver,32265,0.016953355028668834
+EntityFramework.Extended,Block,type 1,csharp,Traditional,536,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096,0.04092852779474649
+EntityFramework.Extended,Block,type 2,csharp,Traditional,82,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096,0.006261453879047038
+EntityFramework.Extended,Block,type 3,csharp,Traditional,182,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096,0.013897373243738546
+EntityFramework.Extended,Function,type 1,csharp,Traditional,348,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096,0.02657299938912645
+EntityFramework.Extended,Function,type 2,csharp,Traditional,61,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096,0.00465791081246182
+EntityFramework.Extended,Function,type 3,csharp,Traditional,151,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096,0.011530238240684179
+FaceONNX,Block,type 1,csharp,Deep Learning,247,FaceONNX,b-repositories/DL/csharp/FaceONNX,2263,0.10914714980114892
+FaceONNX,Block,type 2,csharp,Deep Learning,16,FaceONNX,b-repositories/DL/csharp/FaceONNX,2263,0.007070260715863898
+FaceONNX,Block,type 3,csharp,Deep Learning,32,FaceONNX,b-repositories/DL/csharp/FaceONNX,2263,0.014140521431727796
+FaceONNX,Function,type 1,csharp,Deep Learning,202,FaceONNX,b-repositories/DL/csharp/FaceONNX,2263,0.08926204153778171
+FaceONNX,Function,type 3,csharp,Deep Learning,27,FaceONNX,b-repositories/DL/csharp/FaceONNX,2263,0.011931064958020326
+KelpNet,Block,type 1,csharp,Deep Learning,191,KelpNet,b-repositories/DL/csharp/KelpNet,21045,0.009075789973865525
+KelpNet,Block,type 2,csharp,Deep Learning,473,KelpNet,b-repositories/DL/csharp/KelpNet,21045,0.022475647422190544
+KelpNet,Block,type 3,csharp,Deep Learning,326,KelpNet,b-repositories/DL/csharp/KelpNet,21045,0.015490615348063673
+KelpNet,Function,type 1,csharp,Deep Learning,68,KelpNet,b-repositories/DL/csharp/KelpNet,21045,0.0032311712995961037
+KelpNet,Function,type 2,csharp,Deep Learning,251,KelpNet,b-repositories/DL/csharp/KelpNet,21045,0.011926823473509146
+KelpNet,Function,type 3,csharp,Deep Learning,133,KelpNet,b-repositories/DL/csharp/KelpNet,21045,0.006319790924210026
+Keras.NET,Block,type 1,csharp,Deep Learning,76,Keras.NET,b-repositories/DL/csharp/Keras.NET,5454,0.013934726806013934
+Keras.NET,Block,type 2,csharp,Deep Learning,250,Keras.NET,b-repositories/DL/csharp/Keras.NET,5454,0.04583791712504584
+Keras.NET,Block,type 3,csharp,Deep Learning,160,Keras.NET,b-repositories/DL/csharp/Keras.NET,5454,0.029336266960029337
+Keras.NET,Function,type 2,csharp,Deep Learning,20,Keras.NET,b-repositories/DL/csharp/Keras.NET,5454,0.003667033370003667
+Keras.NET,Function,type 3,csharp,Deep Learning,49,Keras.NET,b-repositories/DL/csharp/Keras.NET,5454,0.008984231756508984
+LockstepFramework,Block,type 1,csharp,Traditional,150,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733,0.0060647717624226745
+LockstepFramework,Block,type 2,csharp,Traditional,125,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733,0.005053976468685562
+LockstepFramework,Block,type 3,csharp,Traditional,443,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733,0.017911292605021632
+LockstepFramework,Function,type 1,csharp,Traditional,24,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733,0.0009703634819876279
+LockstepFramework,Function,type 2,csharp,Traditional,44,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733,0.0017789997169773177
+LockstepFramework,Function,type 3,csharp,Traditional,118,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733,0.00477095378643917
+MPAndroidChart,Block,type 1,java,Traditional,993,,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232,0.039354787571337986
+MPAndroidChart,Block,type 2,java,Traditional,257,,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232,0.010185478757133798
+MPAndroidChart,Block,type 3,java,Traditional,568,,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232,0.02251109701965758
+MPAndroidChart,Function,type 1,java,Traditional,123,,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232,0.004874762206721624
+MPAndroidChart,Function,type 2,java,Traditional,83,,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232,0.003289473684210526
+MPAndroidChart,Function,type 3,java,Traditional,242,,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232,0.009590995561192138
+MassTransit,Block,type 1,csharp,Traditional,6786,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522,0.02995735513548353
+MassTransit,Block,type 2,csharp,Traditional,1632,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522,0.007204598228869602
+MassTransit,Block,type 3,csharp,Traditional,3617,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522,0.015967543991312103
+MassTransit,Function,type 1,csharp,Traditional,2753,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522,0.012153344928969372
+MassTransit,Function,type 2,csharp,Traditional,1146,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522,0.005059111256301816
+MassTransit,Function,type 3,csharp,Traditional,2645,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522,0.01167657004617653
+MyCaffe,Block,type 1,csharp,Deep Learning,6785,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353,0.03762066613807367
+MyCaffe,Block,type 2,csharp,Deep Learning,14159,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353,0.07850714986720488
+MyCaffe,Block,type 3,csharp,Deep Learning,4576,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353,0.025372464001153294
+MyCaffe,Function,type 1,csharp,Deep Learning,1433,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353,0.007945529045815705
+MyCaffe,Function,type 2,csharp,Deep Learning,8147,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353,0.045172522774780566
+MyCaffe,Function,type 3,csharp,Deep Learning,2616,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353,0.01450488763702295
+NeuralNetwork.NET,Block,type 1,csharp,Deep Learning,131,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201,0.010736824850422096
+NeuralNetwork.NET,Block,type 2,csharp,Deep Learning,192,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201,0.01573641504794689
+NeuralNetwork.NET,Block,type 3,csharp,Deep Learning,228,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201,0.01868699286943693
+NeuralNetwork.NET,Function,type 1,csharp,Deep Learning,24,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201,0.001967051880993361
+NeuralNetwork.NET,Function,type 2,csharp,Deep Learning,58,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201,0.004753708712400623
+NeuralNetwork.NET,Function,type 3,csharp,Deep Learning,119,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201,0.009753298909925417
+Pomelo.EntityFrameworkCore.MySql,Block,type 1,csharp,Traditional,504,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115,0.011424685481128868
+Pomelo.EntityFrameworkCore.MySql,Block,type 2,csharp,Traditional,242,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115,0.005485662473081718
+Pomelo.EntityFrameworkCore.MySql,Block,type 3,csharp,Traditional,664,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115,0.015051569760852318
+Pomelo.EntityFrameworkCore.MySql,Function,type 1,csharp,Traditional,216,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115,0.004896293777626658
+Pomelo.EntityFrameworkCore.MySql,Function,type 2,csharp,Traditional,219,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115,0.004964297857871472
+Pomelo.EntityFrameworkCore.MySql,Function,type 3,csharp,Traditional,517,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115,0.011719369828856399
+PowerShell,Block,type 1,csharp,Traditional,4867,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504,0.00957121281248525
+PowerShell,Block,type 2,csharp,Traditional,2396,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504,0.004711860673662351
+PowerShell,Block,type 3,csharp,Traditional,5353,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504,0.010526957506725611
+PowerShell,Function,type 1,csharp,Traditional,755,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504,0.0014847474159495305
+PowerShell,Function,type 2,csharp,Traditional,803,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504,0.001579141953652282
+PowerShell,Function,type 3,csharp,Traditional,2150,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504,0.004228088667935749
+RNNSharp,Block,type 1,csharp,Deep Learning,108,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316,0.017099430018999367
+RNNSharp,Block,type 2,csharp,Deep Learning,220,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316,0.03483217226092464
+RNNSharp,Block,type 3,csharp,Deep Learning,139,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316,0.02200759974667511
+RNNSharp,Function,type 1,csharp,Deep Learning,7,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316,0.0011082963901203294
+RNNSharp,Function,type 2,csharp,Deep Learning,47,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316,0.007441418619379354
+RNNSharp,Function,type 3,csharp,Deep Learning,34,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316,0.005383153894870171
+SANNet,Block,type 1,java,Deep Learning,490,SANNet,b-repositories/DL/java/SANNet,16172,0.030299282710858272
+SANNet,Block,type 2,java,Deep Learning,688,SANNet,b-repositories/DL/java/SANNet,16172,0.04254266633687855
+SANNet,Block,type 3,java,Deep Learning,388,SANNet,b-repositories/DL/java/SANNet,16172,0.023992085085332675
+SANNet,Function,type 1,java,Deep Learning,237,SANNet,b-repositories/DL/java/SANNet,16172,0.014654959188721247
+SANNet,Function,type 2,java,Deep Learning,628,SANNet,b-repositories/DL/java/SANNet,16172,0.03883255008656938
+SANNet,Function,type 3,java,Deep Learning,255,SANNet,b-repositories/DL/java/SANNet,16172,0.015767994063814
+ScreenToGif,Block,type 1,csharp,Traditional,2139,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092,0.03390287199644963
+ScreenToGif,Block,type 2,csharp,Traditional,317,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092,0.005024408799847841
+ScreenToGif,Block,type 3,csharp,Traditional,1221,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092,0.019352691307931276
+ScreenToGif,Function,type 1,csharp,Traditional,697,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092,0.011047359411652824
+ScreenToGif,Function,type 2,csharp,Traditional,124,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092,0.0019653838838521523
+ScreenToGif,Function,type 3,csharp,Traditional,503,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092,0.00797248462562607
+Seq2SeqSharp,Block,type 1,csharp,Deep Learning,391,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088,0.021616541353383457
+Seq2SeqSharp,Block,type 2,csharp,Deep Learning,684,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088,0.037815126050420166
+Seq2SeqSharp,Block,type 3,csharp,Deep Learning,477,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088,0.02637107474568775
+Seq2SeqSharp,Function,type 1,csharp,Deep Learning,51,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088,0.002819548872180451
+Seq2SeqSharp,Function,type 2,csharp,Deep Learning,293,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088,0.016198584697036708
+Seq2SeqSharp,Function,type 3,csharp,Deep Learning,210,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088,0.011609907120743035
+ShareX,Block,type 1,csharp,Traditional,761,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019,0.006793490390023121
+ShareX,Block,type 2,csharp,Traditional,628,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019,0.005606191806747069
+ShareX,Block,type 3,csharp,Traditional,1612,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019,0.014390415911586428
+ShareX,Function,type 1,csharp,Traditional,224,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019,0.0019996607718333497
+ShareX,Function,type 2,csharp,Traditional,285,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019,0.002544211249877253
+ShareX,Function,type 3,csharp,Traditional,714,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019,0.006373918710218802
+SharpNet,Block,type 1,csharp,Deep Learning,97,SharpNet,b-repositories/DL/csharp/SharpNet,27593,0.0035153843366071105
+SharpNet,Block,type 2,csharp,Deep Learning,478,SharpNet,b-repositories/DL/csharp/SharpNet,27593,0.01732323415358968
+SharpNet,Block,type 3,csharp,Deep Learning,377,SharpNet,b-repositories/DL/csharp/SharpNet,27593,0.013662885514442068
+SharpNet,Function,type 1,csharp,Deep Learning,19,SharpNet,b-repositories/DL/csharp/SharpNet,27593,0.0006885804370673721
+SharpNet,Function,type 2,csharp,Deep Learning,290,SharpNet,b-repositories/DL/csharp/SharpNet,27593,0.010509911934186206
+SharpNet,Function,type 3,csharp,Deep Learning,200,SharpNet,b-repositories/DL/csharp/SharpNet,27593,0.00724821512702497
+SiaNet,Block,type 1,csharp,Deep Learning,32365,SiaNet,b-repositories/DL/csharp/SiaNet,248467,0.1302587466343619
+SiaNet,Block,type 2,csharp,Deep Learning,23289,SiaNet,b-repositories/DL/csharp/SiaNet,248467,0.09373075700193587
+SiaNet,Block,type 3,csharp,Deep Learning,14874,SiaNet,b-repositories/DL/csharp/SiaNet,248467,0.05986308040906841
+SiaNet,Function,type 1,csharp,Deep Learning,23558,SiaNet,b-repositories/DL/csharp/SiaNet,248467,0.0948133957426942
+SiaNet,Function,type 2,csharp,Deep Learning,19853,SiaNet,b-repositories/DL/csharp/SiaNet,248467,0.0799019588114317
+SiaNet,Function,type 3,csharp,Deep Learning,12816,SiaNet,b-repositories/DL/csharp/SiaNet,248467,0.05158029034036713
+TensorShader,Block,type 1,csharp,Deep Learning,1257,TensorShader,b-repositories/DL/csharp/TensorShader,149199,0.008424989443628978
+TensorShader,Block,type 2,csharp,Deep Learning,2652,TensorShader,b-repositories/DL/csharp/TensorShader,149199,0.0177749180624535
+TensorShader,Block,type 3,csharp,Deep Learning,1902,TensorShader,b-repositories/DL/csharp/TensorShader,149199,0.012748074718999457
+TensorShader,Function,type 1,csharp,Deep Learning,553,TensorShader,b-repositories/DL/csharp/TensorShader,149199,0.0037064591585734487
+TensorShader,Function,type 2,csharp,Deep Learning,1621,TensorShader,b-repositories/DL/csharp/TensorShader,149199,0.010864684079652008
+TensorShader,Function,type 3,csharp,Deep Learning,954,TensorShader,b-repositories/DL/csharp/TensorShader,149199,0.006394144732873545
+Vortex,Block,type 1,csharp,Deep Learning,109,Vortex,b-repositories/DL/csharp/Vortex,5769,0.01889408909689721
+Vortex,Block,type 2,csharp,Deep Learning,145,Vortex,b-repositories/DL/csharp/Vortex,5769,0.025134338706881608
+Vortex,Block,type 3,csharp,Deep Learning,133,Vortex,b-repositories/DL/csharp/Vortex,5769,0.023054255503553476
+Vortex,Function,type 1,csharp,Deep Learning,28,Vortex,b-repositories/DL/csharp/Vortex,5769,0.004853527474432311
+Vortex,Function,type 2,csharp,Deep Learning,123,Vortex,b-repositories/DL/csharp/Vortex,5769,0.021320852834113363
+Vortex,Function,type 3,csharp,Deep Learning,117,Vortex,b-repositories/DL/csharp/Vortex,5769,0.0202808112324493
+aspnetboilerplate,Block,type 1,csharp,Traditional,2609,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493,0.023828007269871134
+aspnetboilerplate,Block,type 2,csharp,Traditional,806,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493,0.007361201172677706
+aspnetboilerplate,Block,type 3,csharp,Traditional,2363,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493,0.02158128830153526
+aspnetboilerplate,Function,type 1,csharp,Traditional,1023,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493,0.009343063026860164
+aspnetboilerplate,Function,type 2,csharp,Traditional,425,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493,0.003881526672937996
+aspnetboilerplate,Function,type 3,csharp,Traditional,1304,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493,0.011909437132967405
+deeplearning4j,Block,type 1,java,Deep Learning,17830,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195,0.03388477655621965
+deeplearning4j,Block,type 2,java,Deep Learning,21181,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195,0.04025313809519285
+deeplearning4j,Block,type 3,java,Deep Learning,10132,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195,0.0192552190727772
+deeplearning4j,Function,type 1,java,Deep Learning,6735,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195,0.012799437470899571
+deeplearning4j,Function,type 2,java,Deep Learning,15575,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195,0.029599293037752165
+deeplearning4j,Function,type 3,java,Deep Learning,8102,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195,0.015397333688081414
+djl,Block,type 1,java,Deep Learning,1198,djl,b-repositories/DL/java/djl,74161,0.01615404323026928
+djl,Block,type 2,java,Deep Learning,1864,djl,b-repositories/DL/java/djl,74161,0.02513450465878292
+djl,Block,type 3,java,Deep Learning,1411,djl,b-repositories/DL/java/djl,74161,0.019026172786235352
+djl,Function,type 1,java,Deep Learning,443,djl,b-repositories/DL/java/djl,74161,0.00597349010935667
+djl,Function,type 2,java,Deep Learning,1200,djl,b-repositories/DL/java/djl,74161,0.016181011582907457
+djl,Function,type 3,java,Deep Learning,896,djl,b-repositories/DL/java/djl,74161,0.012081821981904235
+dubbo,Function,type 1,java,Traditional,6708,,/tmpstore/bimus/b-repositories/trad/java/dubbo,174064,0.038537549407114624
+dubbo,Function,type 2,java,Traditional,1652,,/tmpstore/bimus/b-repositories/trad/java/dubbo,174064,0.009490762018567883
+dubbo,Function,type 3,java,Traditional,3173,,/tmpstore/bimus/b-repositories/trad/java/dubbo,174064,0.018228927291111315
+efcore,Block,type 1,csharp,Traditional,15855,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019,0.022944376348551922
+efcore,Block,type 2,csharp,Traditional,5403,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019,0.007818887758513152
+efcore,Block,type 3,csharp,Traditional,14313,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019,0.0207128892259113
+efcore,Function,type 1,csharp,Traditional,6993,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019,0.010119837515321577
+efcore,Function,type 2,csharp,Traditional,3996,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019,0.0057827642944694715
+efcore,Function,type 3,csharp,Traditional,10629,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019,0.015381632053532537
+framework,Block,type 1,java,Traditional,13198,,/tmpstore/bimus/b-repositories/trad/java/framework,437134,0.03019211500363733
+framework,Block,type 2,java,Traditional,2608,,/tmpstore/bimus/b-repositories/trad/java/framework,437134,0.005966133954348095
+framework,Block,type 3,java,Traditional,6352,,/tmpstore/bimus/b-repositories/trad/java/framework,437134,0.01453101337347358
+framework,Function,type 1,java,Traditional,9436,,/tmpstore/bimus/b-repositories/trad/java/framework,437134,0.0215860582796122
+framework,Function,type 2,java,Traditional,1574,,/tmpstore/bimus/b-repositories/trad/java/framework,437134,0.0036007265506686737
+framework,Function,type 3,java,Traditional,5609,,/tmpstore/bimus/b-repositories/trad/java/framework,437134,0.012831305732338368
+jellyfin,Block,type 1,csharp,Traditional,1664,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776,0.01103623918926089
+jellyfin,Block,type 2,csharp,Traditional,701,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776,0.004649281052687431
+jellyfin,Block,type 3,csharp,Traditional,2162,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776,0.014339152119700748
+jellyfin,Function,type 1,csharp,Traditional,291,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776,0.0019300153870642543
+jellyfin,Function,type 2,csharp,Traditional,209,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776,0.0013861622539396191
+jellyfin,Function,type 3,csharp,Traditional,670,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776,0.00444367803894519
+keras-sharp,Block,type 1,csharp,Deep Learning,112,keras-sharp,b-repositories/DL/csharp/keras-sharp,10751,0.010417635568784299
+keras-sharp,Block,type 2,csharp,Deep Learning,273,keras-sharp,b-repositories/DL/csharp/keras-sharp,10751,0.02539298669891173
+keras-sharp,Block,type 3,csharp,Deep Learning,116,keras-sharp,b-repositories/DL/csharp/keras-sharp,10751,0.010789693981955168
+keras-sharp,Function,type 2,csharp,Deep Learning,144,keras-sharp,b-repositories/DL/csharp/keras-sharp,10751,0.013394102874151242
+keras-sharp,Function,type 3,csharp,Deep Learning,61,keras-sharp,b-repositories/DL/csharp/keras-sharp,10751,0.005673890800855734
+knime-deeplearning,Block,type 1,java,Deep Learning,1862,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445,0.037658003842653456
+knime-deeplearning,Block,type 2,java,Deep Learning,2108,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445,0.042633228840125395
+knime-deeplearning,Block,type 3,java,Deep Learning,1111,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445,0.02246941045606229
+knime-deeplearning,Function,type 1,java,Deep Learning,1329,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445,0.026878349681464252
+knime-deeplearning,Function,type 2,java,Deep Learning,1361,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445,0.0275255334209728
+knime-deeplearning,Function,type 3,java,Deep Learning,717,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445,0.014500960663363333
+neuralnetworks,Block,type 1,java,Deep Learning,7341,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902,0.16721333880005468
+neuralnetworks,Block,type 2,java,Deep Learning,16250,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902,0.370142590314792
+neuralnetworks,Block,type 3,java,Deep Learning,3959,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902,0.09017812400346226
+neuralnetworks,Function,type 1,java,Deep Learning,3216,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902,0.07325406587399207
+neuralnetworks,Function,type 2,java,Deep Learning,11665,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902,0.2657054348321261
+neuralnetworks,Function,type 3,java,Deep Learning,2654,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902,0.06045282675048973
+okhttp,Block,type 1,java,Traditional,562,,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217,0.015100626057984255
+okhttp,Block,type 2,java,Traditional,108,,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217,0.0029018996695058708
+okhttp,Block,type 3,java,Traditional,799,,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217,0.021468683666066583
+okhttp,Function,type 1,java,Traditional,423,,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217,0.011365773705564661
+okhttp,Function,type 2,java,Traditional,100,,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217,0.002686944138431362
+okhttp,Function,type 3,java,Traditional,651,,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217,0.017492006341188165
+retrofit,Block,type 1,java,Traditional,1383,,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513,0.05216308980500132
+retrofit,Block,type 2,java,Traditional,267,,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513,0.010070531437408064
+retrofit,Block,type 3,java,Traditional,737,,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513,0.027797684154942857
+retrofit,Function,type 1,java,Traditional,1178,,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513,0.04443103383245955
+retrofit,Function,type 2,java,Traditional,207,,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513,0.007807490664956814
+retrofit,Function,type 3,java,Traditional,649,,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513,0.024478557688681023
+shadowsocks-windows,Block,type 2,csharp,Traditional,16,shadowsocks-windows,/tmpstore/bimus/b-repositories/trad/csharp/shadowsocks-windows,9111,0.001756118977060696
+shadowsocks-windows,Block,type 3,csharp,Traditional,98,shadowsocks-windows,/tmpstore/bimus/b-repositories/trad/csharp/shadowsocks-windows,9111,0.010756228734496762
+shadowsocks-windows,Function,type 2,csharp,Traditional,7,shadowsocks-windows,/tmpstore/bimus/b-repositories/trad/csharp/shadowsocks-windows,9111,0.0007683020524640545
+shadowsocks-windows,Function,type 3,csharp,Traditional,38,shadowsocks-windows,/tmpstore/bimus/b-repositories/trad/csharp/shadowsocks-windows,9111,0.004170782570519152
+spring-framework,Block,type 1,java,Traditional,14523,,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741,0.02075482214133515
+spring-framework,Block,type 2,java,Traditional,4733,,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741,0.006763931225982185
+spring-framework,Block,type 3,java,Traditional,11701,,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741,0.0167219013892283
+spring-framework,Function,type 1,java,Traditional,9156,,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741,0.013084841391314786
+spring-framework,Function,type 2,java,Traditional,3380,,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741,0.004830358661276101
+spring-framework,Function,type 3,java,Traditional,12252,,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741,0.017509335597028042
