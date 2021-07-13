@@ -1,7 +1,7 @@
-Repository,URL,SLOC,#commits,Size
-keras-applications,https://github.com/keras-team/keras-applications.git,4263,89,small
-DeepCTR,https://github.com/shenweichen/DeepCTR.git,4886,91,small
-nn-wtf,https://github.com/lene/nn-wtf.git,2688,119,small
-ranking,https://github.com/tensorflow/ranking.git,10778,145,medium
-BerryNet,https://github.com/DT42/BerryNet.git,12963,396,medium
-adanet,https://github.com/tensorflow/adanet.git,25165,432,large
+Repository,URL,SLOC,#commits,Size,sha1
+keras-applications,https://github.com/keras-team/keras-applications.git,4263,89,small,bc89834ed36935ab4a4994446e34ff81c0d8e1b7
+DeepCTR,https://github.com/shenweichen/DeepCTR.git,4886,91,small,62d2afc2d1c5ba1b2053191441944c20e52da81b
+nn-wtf,https://github.com/lene/nn-wtf.git,2688,119,small,4696f143d936e0c0c127847e3bb1e93a6e756d35
+ranking,https://github.com/tensorflow/ranking.git,10778,145,medium,85cb4440b63de8744ddfc9a213f2cdad535d5224
+BerryNet,https://github.com/DT42/BerryNet.git,12963,396,medium,7be75d6c746c5ec83b43c4136664cc7b4a3933be
+adanet,https://github.com/tensorflow/adanet.git,25165,432,large,e524035ba6871809e2dbd28349c1574019f6fc57
