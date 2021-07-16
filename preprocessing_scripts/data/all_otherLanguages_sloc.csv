@@ -1,0 +1,41 @@
+language,project_type,repoName,repoName_path,total_sloc
+java,Deep Learning,neuralnetworks,b-repositories/DL/java/neuralnetworks,43902
+java,Deep Learning,SANNet,b-repositories/DL/java/SANNet,16172
+java,Deep Learning,DeepDriver,b-repositories/DL/java/DeepDriver,32265
+java,Deep Learning,deeplearning4j,b-repositories/DL/java/deeplearning4j,526195
+java,Deep Learning,knime-deeplearning,b-repositories/DL/java/knime-deeplearning,49445
+java,Deep Learning,djl,b-repositories/DL/java/djl,74161
+java,Traditional,spring-framework,/tmpstore/bimus/b-repositories/trad/java/spring-framework,699741
+java,Traditional,framework,/tmpstore/bimus/b-repositories/trad/java/framework,437134
+java,Traditional,okhttp,/tmpstore/bimus/b-repositories/trad/java/okhttp,37217
+java,Traditional,retrofit,/tmpstore/bimus/b-repositories/trad/java/retrofit,26513
+java,Traditional,dubbo,/tmpstore/bimus/b-repositories/trad/java/dubbo,174064
+java,Traditional,MPAndroidChart,/tmpstore/bimus/b-repositories/trad/java/MPAndroidChart,25232
+csharp,Deep Learning,ConvNetSharp,b-repositories/DL/csharp/ConvNetSharp,16620
+csharp,Deep Learning,SiaNet,b-repositories/DL/csharp/SiaNet,248467
+csharp,Deep Learning,KelpNet,b-repositories/DL/csharp/KelpNet,21045
+csharp,Deep Learning,MyCaffe,b-repositories/DL/csharp/MyCaffe,180353
+csharp,Deep Learning,RNNSharp,b-repositories/DL/csharp/RNNSharp,6316
+csharp,Deep Learning,SharpNet,b-repositories/DL/csharp/SharpNet,27593
+csharp,Deep Learning,TensorShader,b-repositories/DL/csharp/TensorShader,149199
+csharp,Deep Learning,keras-sharp,b-repositories/DL/csharp/keras-sharp,10751
+csharp,Deep Learning,CeNiN,b-repositories/DL/csharp/CeNiN,1438
+csharp,Deep Learning,Seq2SeqSharp,b-repositories/DL/csharp/Seq2SeqSharp,18088
+csharp,Deep Learning,Vortex,b-repositories/DL/csharp/Vortex,5769
+csharp,Deep Learning,FaceONNX,b-repositories/DL/csharp/FaceONNX,2263
+csharp,Deep Learning,NeuralNetwork.NET,b-repositories/DL/csharp/NeuralNetwork.NET,12201
+csharp,Deep Learning,Keras.NET,b-repositories/DL/csharp/Keras.NET,5454
+csharp,Traditional,EntityFramework.Extended,/tmpstore/bimus/b-repositories/trad/csharp/EntityFramework.Extended,13096
+csharp,Traditional,LockstepFramework,/tmpstore/bimus/b-repositories/trad/csharp/LockstepFramework,24733
+csharp,Traditional,AspectCore-Framework,/tmpstore/bimus/b-repositories/trad/csharp/AspectCore-Framework,17316
+csharp,Traditional,Pomelo.EntityFrameworkCore.MySql,/tmpstore/bimus/b-repositories/trad/csharp/Pomelo.EntityFrameworkCore.MySql,44115
+csharp,Traditional,aspnetboilerplate,/tmpstore/bimus/b-repositories/trad/csharp/aspnetboilerplate,109493
+csharp,Traditional,MassTransit,/tmpstore/bimus/b-repositories/trad/csharp/MassTransit,226522
+csharp,Traditional,shadowsocks-windows,/tmpstore/bimus/b-repositories/trad/csharp/shadowsocks-windows,9111
+csharp,Traditional,PowerShell,/tmpstore/bimus/b-repositories/trad/csharp/PowerShell,508504
+csharp,Traditional,ShareX,/tmpstore/bimus/b-repositories/trad/csharp/ShareX,112019
+csharp,Traditional,ScreenToGif,/tmpstore/bimus/b-repositories/trad/csharp/ScreenToGif,63092
+csharp,Traditional,Dapper,/tmpstore/bimus/b-repositories/trad/csharp/Dapper,18031
+csharp,Traditional,Avalonia,/tmpstore/bimus/b-repositories/trad/csharp/Avalonia,245432
+csharp,Traditional,jellyfin,/tmpstore/bimus/b-repositories/trad/csharp/jellyfin,150776
+csharp,Traditional,efcore,/tmpstore/bimus/b-repositories/trad/csharp/efcore,691019
